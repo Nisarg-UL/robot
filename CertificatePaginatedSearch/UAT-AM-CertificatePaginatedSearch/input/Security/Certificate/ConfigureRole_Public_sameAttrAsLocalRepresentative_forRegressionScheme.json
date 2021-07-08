@@ -1,0 +1,27 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Public",
+        "attributes": [
+            {
+                "attributeName": "IR Reference",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "TGA Reference",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Footnote Symbol",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Footnote Text",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

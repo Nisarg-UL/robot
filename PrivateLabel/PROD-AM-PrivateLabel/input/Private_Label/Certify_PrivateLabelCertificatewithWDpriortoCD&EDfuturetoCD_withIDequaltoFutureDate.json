@@ -1,0 +1,152 @@
+{
+    "privateLabel": [
+        {
+            "baseCertificate": {
+                "certificateType": "Regression Scheme",
+                "ownerReference": "${Asset_Owner_Ref}",
+                "certificateName": "Regression-US001-1"
+            },
+            "privateLabelId": "${PrivateLabel_Id}",
+            "certify": "Y",
+            "issueDate": "Replace Future Date",
+            "revisionDate": "",
+            "revisionNumber": "1",
+            "expiryDate": "Replace Future Date",
+            "withdrawalDate": "Replace Past Date",
+            "user": "50696",
+            "projectDetails": [
+                {
+                    "name": "projectNumber",
+                    "value": "PL_Automation_Project"
+                }
+            ],
+            "hasQuestions": [
+                {
+                    "relationshipType": "Questions",
+                    "attributes": [
+                        {
+                            "dataParamName": "question1",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question2",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question3",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question4",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question5",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question6",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question7",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question8",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "question9",
+                            "value": "Yes",
+                            "uom": "N/A",
+                            "seq": ""
+                        }
+                    ]
+                }
+            ],
+            "hasRecommendation": [
+                {
+                    "relationshipType": "Recommendation",
+                    "attributes": [
+                        {
+                            "dataParamName": "recommendationStatus",
+                            "value": "Recommend",
+                            "uom": "N/A",
+                            "seq": ""
+                        }
+                    ]
+                }
+            ],
+            "hasCertify": [
+                {
+                    "relationshipType": "Certify",
+                    "attributes": [
+                        {
+                            "uom": "N/A",
+                            "name": "issueDate",
+                            "dataParamName": "issueDate",
+                            "seq": "",
+                            "value": "Replace Future Date"
+                        },
+                        {
+                            "uom": "N/A",
+                            "name": "revisionDate",
+                            "dataParamName": "revisionDate",
+                            "seq": "",
+                            "value": ""
+                        },
+                        {
+                            "uom": "N/A",
+                            "name": "expiryDate",
+                            "dataParamName": "expiryDate",
+                            "seq": "",
+                            "value": "Replace Future Date"
+                        },
+                        {
+                            "uom": "N/A",
+                            "name": "withdrawalDate",
+                            "dataParamName": "withdrawalDate",
+                            "seq": "",
+                            "value": "Replace Past Date"
+                        },
+                        {
+                            "dataParamName": "Certification Comment",
+                            "value": "The Certificate is Certified by UL",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "certifierEmployeeName",
+                            "value": "Nisarg_Automation",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "certifierEmployeeNumber",
+                            "value": "50696",
+                            "uom": "N/A",
+                            "seq": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

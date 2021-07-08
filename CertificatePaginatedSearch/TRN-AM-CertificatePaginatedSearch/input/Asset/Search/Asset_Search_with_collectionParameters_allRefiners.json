@@ -1,0 +1,48 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "-${updatedOn_key}",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "",
+        "searchParameters": {
+            "collectionName": {
+                "operator": "${operator_value}",
+                "value": "${collection_1}"
+            },
+            "projectNumber": {
+                "operator": "${operator_value}",
+                "value": "${Asset1_Collection_Project_no}"
+            },
+            "quoteNumber": {
+                "operator": "${operator_value}",
+                "value": "${Asset1_Collection_Quote_no}"
+            },
+            "orderNumber": {
+                "operator": "${operator_value}",
+                "value": "${Asset1_Collection_Order_no}"
+            }
+        },
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[],
+        "facet": [
+            {
+                "field": "${productType_key}"
+            },
+            {
+                "field": "${ownerReference_key}"
+            },
+            {
+                "field": "${referenceNumber_key}"
+            },
+            {
+                "field": "${family_Series_key}"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "parties": [
+        {
+            "ipPartyIdentifier": "",
+            "partySiteNumber": "1606567",
+            "accountNumber": "1542259",
+            "relationshipType": "Brand Owner"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "partySiteNumber": "551380",
+            "accountNumber": "249219",
+            "relationshipType": "Production Site"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "partySiteNumber": "3245678",
+            "accountNumber": "9568758",
+            "relationshipType": "Applicant"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "partySiteNumber": "2356898",
+            "accountNumber": "351328",
+            "relationshipType": "Local Representative"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "accountNumber": "1234",
+            "partySiteNumber": "7890",
+            "relationshipType": "Applicant"
+        }
+    ],
+    "user": "50696"
+}

@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "6",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "7",
+                "responses": "6.3",
+                "uom": "",
+                "displayName": "TP1 Attribute 65",
+                "paramName": "TP1Attribute65_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "7",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if the max values were populated accurately - Yes for Pass - No for Fail",
+                "paramName": "CheckToSee_5",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "7",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 11 - Data Linked Scenarios - Non-Data Group",
+            "subGroupName": "Decimal with Max function"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

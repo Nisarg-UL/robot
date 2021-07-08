@@ -1,0 +1,27 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Production Site",
+        "attributes": [
+            {
+                "attributeName": "Owner Reference",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Certification Scheme Owner",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "CCN",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "complementaryCCN",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

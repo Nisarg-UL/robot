@@ -1,0 +1,16 @@
+{
+  "data": {
+    "user": "Manoj_Automation",
+    "referenceNumber": "PL_DEMOFILE01",
+    "referenceNoChangeFlag": "N",
+    "taxonomy": [
+      {
+        "plAssetId": "${PrivateLabel_Asset_Id1}",
+        "assetId": "${asset_Id_Product1}",
+        "modelName": "${pl_model_name_1}_${current_time}",
+        "family_Series": "Reg-Test",
+        "nomenclature": "Regression_Test_Model_Nomenclature_Edit"
+      }
+    ]
+ }
+}

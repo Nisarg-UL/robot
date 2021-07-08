@@ -1,0 +1,86 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "a1.1",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "16",
+                "responses": "TP1A25-A",
+                "uom": "",
+                "displayName": "TP1 Attribute 25",
+                "paramName": "TP1Attribute25_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "16",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "a1.1 - Select Yes to proceed to Applicability Parameter 3. No to short circuit",
+                "paramName": "A1.1-Select_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "16",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "a1.1 - Select Yes to proceed to Requirement Parameter. No to short circuit",
+                "paramName": "A1.1-Select_1",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "6",
+                "rowId": "16",
+                "responses": "No",
+                "uom": "",
+                "displayName": "a1.1 - For a Pass verdict, select Yes. For a Pending Fail to short circuit to clause a2, select No",
+                "paramName": "A1.1-For_0",
+                "paramType": "requirement"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "17",
+                "responses": "No",
+                "uom": "",
+                "displayName": "a2.1 - Select Yes to proceed to Requirement Parameter. No to short circuit",
+                "paramName": "A2.1-Select_0",
+                "paramType": "applicability"
+            }
+        ],
+        "rowId": "16",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 14 - Data Linked Scenarios - Single Clause Group, multiple Data linkages down a Column",
+            "subGroupName": "Data Linkage UI Test - Multi Select LoV"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

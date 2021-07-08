@@ -1,0 +1,29 @@
+{
+  "additionalAttributes": [
+    {
+      "uom": "",
+      "name": "Model Nomeclature",
+      "dataParamName": "modelNomeclature",
+      "seq": "",
+      "value": "Test",
+      "dataGroupName": ""
+    },
+    {
+      "uom": "",
+      "name": "Published Attributes",
+      "dataParamName": "publishedAttributes",
+      "seq": "1",
+      "value": "Voltage",
+      "dataGroupName": ""
+    },
+    {
+      "uom": "",
+      "name": "Published Attributes Sequence",
+      "dataParamName": "publishedAttributesSequence",
+      "seq": "2",
+      "value": "Frequence",
+      "dataGroupName": ""
+    }
+  ],
+  "user": "Nisarg_Automation"
+}

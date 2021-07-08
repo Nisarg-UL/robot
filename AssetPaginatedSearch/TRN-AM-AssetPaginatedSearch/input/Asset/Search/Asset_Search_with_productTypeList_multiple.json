@@ -1,0 +1,22 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "-${updatedOn_key}",
+        "completed": "",
+        "accepted": "",
+        "productTypeList": [
+            {
+                "productType": "${product_type_1}"
+            },
+            {
+                "productType": "${product_type_2}"
+            }
+        ],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[]
+    }
+}

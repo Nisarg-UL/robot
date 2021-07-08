@@ -1,0 +1,22 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "-${updatedOn_key}",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "",
+        "searchParameters": {
+            "productType": {
+                "operator": "${operator_value}",
+                "value": "${product_type_1}"
+            }
+        },
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[]
+    }
+}

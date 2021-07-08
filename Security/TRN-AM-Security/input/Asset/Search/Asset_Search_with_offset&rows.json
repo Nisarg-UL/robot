@@ -1,0 +1,20 @@
+{
+    "data": {
+        "searchText": "${Asset_Owner_Ref}",
+        "user": "${user_1}",
+        "offset": "${offset_value}",
+        "rows": "${rows_value}",
+        "orderBy": "${orderBy_value}",
+        "completed": "",
+        "accepted": "",
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [
+            {
+                "family_Series": "${family_series_1}-${current_time}"
+            }
+        ],
+        "statusList":[]
+    }
+}

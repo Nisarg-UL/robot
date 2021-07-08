@@ -1,0 +1,19 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Public",
+        "attributes": [
+            {
+                "attributeName": "Certification Product Type",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Standard",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

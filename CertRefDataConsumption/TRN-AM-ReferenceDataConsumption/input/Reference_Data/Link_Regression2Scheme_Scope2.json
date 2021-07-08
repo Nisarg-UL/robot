@@ -1,0 +1,13 @@
+{
+  "data": {
+    "scopeScheme": [
+      {
+        "scopeId": "${scope2_Id}",
+        "schemeId": "${certificate2_hierarchy_Id}",
+        "schemeName": "Regression2 Scheme"
+      }
+    ],
+    "removed": [],
+    "user": "Manoj_Automation"
+  }
+}

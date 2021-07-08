@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "clauseId": "1",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "AP1_0",
+                "responses": "No",
+                "displayName": "AP1",
+                "rowId": "2",
+                "orderNum": "0",
+                "uom": "",
+                "guidanceNote": "GN on AP1 - row 2.",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "AP3_0",
+                "responses": "No",
+                "displayName": "AP3",
+                "rowId": "4",
+                "orderNum": "1",
+                "uom": "",
+                "guidanceNote": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "2",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName":"Group 8 - Guidance Notes",
+            "subGroupName":"RG8-RsG1"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

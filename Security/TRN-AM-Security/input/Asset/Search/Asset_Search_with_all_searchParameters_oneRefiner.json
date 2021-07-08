@@ -1,0 +1,59 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "-${updatedOn_key}",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "",
+        "searchParameters": {
+            "productType": {
+                "operator": "${operator_value}",
+                "value": "${product_type_1}"
+            },
+            "ownerReference_PartySiteID": {
+                "operator": "${operator_value}",
+                "value": "${Asset_Owner_Ref}"
+            },
+            "referenceNumber": {
+                "operator": "${operator_value}",
+                "value": "${reference_number_1}"
+            },
+            "family_Series": {
+                "operator": "${operator_value}",
+                "value": "${family_series_1}-${current_time}"
+            },
+            "modelName": {
+                "operator": "${operator_value}",
+                "value": "${model_name_1}_${current_time}"
+            },
+            "collectionName": {
+                "operator": "${operator_value}",
+                "value": "${collection_1}"
+            },
+            "projectNumber": {
+                "operator": "${operator_value}",
+                "value": "${Asset1_Collection_Project_no}"
+            },
+            "quoteNumber": {
+                "operator": "${operator_value}",
+                "value": "${Asset1_Collection_Quote_no}"
+            },
+            "orderNumber": {
+                "operator": "${operator_value}",
+                "value": "${Asset1_Collection_Order_no}"
+            }
+        },
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[],
+        "facet": [
+            {
+                "field": "${field_value}"
+            }
+        ]
+    }
+}

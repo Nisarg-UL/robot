@@ -1,0 +1,59 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "1.1",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "PASS",
+            "clauseGroupText": "e,f",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "clauseId": "1.3",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "SelectYesTo_13",
+                "responses": "No",
+                "displayName": "Select Yes to Pass AP clause 1.3 No to get AP for 1.3 and 1.4",
+                "rowId": "14",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "14",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 2 - Evaluation Not Required Tests",
+            "subGroupName": "Test Case 14b - Evaluation Not Required on Sub-Group - Clause Navigation"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

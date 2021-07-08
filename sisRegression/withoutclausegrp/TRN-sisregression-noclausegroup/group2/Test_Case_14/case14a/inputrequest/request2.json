@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "14-Q1",
+            "aeoDetails": "",
+            "hasMoreRows": true,
+            "verdict": "",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "clauseId": "14-Q1",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "SelectYesTo_0",
+                "responses": "Yes",
+                "displayName": "Select yes to test Evaluation Not Required on current Sub-Group, this will apply N/A status to Clause 14-Q1 and 14-Q2 - Select No to short-circuit to next question in Sub-Group",
+                "rowId": "2",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "2",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "3rd"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - No Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 2 - Evaluation Not Required Tests",
+            "subGroupName": "Test Case 14 - Evaluation Not Required on Sub-Group - Multiple Clause Questions per Sub-Group"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

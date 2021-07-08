@@ -1,0 +1,7 @@
+{
+    "Grant Type": "${Grant_Type}",
+    "Access Token URL": "${Access_Token_URL}",
+    "Client ID": "${Client_ID}",
+    "Client Secret": "${Client_Secret}",
+    "Scope": "${Scope}"
+}

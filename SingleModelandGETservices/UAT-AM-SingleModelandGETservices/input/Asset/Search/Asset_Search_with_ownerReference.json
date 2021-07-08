@@ -1,0 +1,22 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "",
+        "searchParameters": {
+            "ownerReference_PartySiteID": {
+                "operator": "${operator_value}",
+                "value": "${Asset_Owner_Ref}"
+            }
+        },
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[]
+    }
+}

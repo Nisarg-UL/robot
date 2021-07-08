@@ -1,0 +1,18 @@
+{
+    "data": {
+        "baseCertificate": {
+
+            "certificateType": "Regression Scheme",
+            "ownerReference": "${Asset_Owner_Ref}",
+            "certificateName": "PL-${certificate_name_1}-${current_time}"
+        },
+        "name": "From-PL-Another-PL-${certificate_name_1}-${current_time}",
+        "certify": "Y",
+        "issueDate": "",
+        "revisionDate": "",
+        "expiryDate": "",
+        "withdrawalDate": "",
+        "revisionNumber": "0",
+        "user": "50696"
+    }
+}

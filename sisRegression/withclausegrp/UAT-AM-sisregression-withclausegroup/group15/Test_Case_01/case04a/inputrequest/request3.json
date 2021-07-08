@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "1",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "PASS",
+            "clauseGroupText": "A, A-Pass",
+            "notes": "",
+            "clauseText": "1"
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "2",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "6",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Is this Clause Q2 applicable?",
+                "paramName": "IsThisClause_1",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "3",
+                "rowId": "6",
+                "responses": "No",
+                "uom": "",
+                "displayName": "Do you comply with this Clause Q2?",
+                "paramName": "DoYouComply_1",
+                "paramType": "requirement"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "9",
+                "responses": "Alternate Evaluation Option",
+                "uom": "",
+                "displayName": "Explicit Option",
+                "paramName": "ExplicitOption_0",
+                "paramType": "applicability"
+            }
+        ],
+        "rowId": "6",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 15 - Clause Verdict Roll Up Testing",
+            "subGroupName": "Test"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

@@ -1,0 +1,14 @@
+{
+    "data": {
+        "schemeScopeProductType": [
+            {
+                "schemeScopeId": "${Regression_schemeScope2Id}",
+                "productTypeName": "Regression Test Product 1",
+                "productTypeVersion": "1.0",
+                "hierarchyId": "${regression_product_1_hierarchy_id}"
+            }
+        ],
+        "removed": [],
+        "user": "Manoj_Automation"
+    }
+}

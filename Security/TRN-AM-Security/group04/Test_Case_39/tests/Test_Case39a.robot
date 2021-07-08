@@ -1,0 +1,55 @@
+*** Settings ***
+Documentation	Security TestSuite
+Resource	../../../resource/ApiFunctions.robot
+Suite Setup  Link RegressionScheme-Scope-Product1
+Suite Teardown  Unlink Scheme Scope    Unlink_ScopeScheme.json
+
+*** Keywords ***
+test1 Teardown
+	Log To Console	test1a Teardown Beginning
+	Expire The Asset	${asset_Id_Product1}
+	Log To Console	test1a Teardown Finished
+
+*** Test Cases ***
+1a. Setting up Environment
+	set global variable	${asset_Id_Product1}
+
+1. Role Access Configuration With POST Request
+	[Tags]	Functional	POST    current
+    Configure Role Access    Certificate/ConfigureRole_Owner_forRegressionScheme.json   Certificate
+    should be equal  ${access_role}   Owner
+
+2. Asset Creation With POST Request
+	[Tags]	Functional	asset	Test	create	POST    current
+    create product1 asset	CreationOfRegressionProduct1_siscase1.json
+
+3. Check for Asset State
+	[Tags]	Functional	current
+	${state}=	Get Asset State	${asset_Id_Product1}
+	run keyword if	'${state}' != 'scratchpad'	Fail	test1a Teardown
+	log to console	"Product_Asset_State": ${state}
+
+4. Standard Assignment To Product (Product Evaluation Set Up)
+	[Tags]	Functional	POST	current
+	standard assignment	productnoevalreqd.json	${asset_Id_Product1}
+
+5. Check Asset State After Associating Standard to Product
+	[Tags]	Functional	current
+	${state}=	Get Asset State	${asset_Id_Product1}
+	run keyword if	'${state}' != 'associated'	Fail	test1a Teardown
+	log to console	"Product_State after Standard Assigned To Product": ${state}
+
+6. Certificate creation
+	[Tags]	Functional	certificate create	POST    current
+    create certificate   Certificate/CreationOfRegressionSchemeCertificate.json
+
+7. Get Certificate details using UserId
+	[Tags]	Functional	certificate create	POST    current
+	Get Certificate details using UserId     ${Certificate_Id}   ${EMPTY}
+    should be empty   ${cert_attr}
+    run keyword if  ${Cert_status} != "Under Revision"     Fail
+
+8. Disfigure Role With POST Request
+	[Tags]	Functional	POST    current
+    Disfigure Role Access    Certificate/DisfigureRole_Owner_forRegressionScheme.json   Certificate
+    should be equal  ${access_role}   Owner

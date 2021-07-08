@@ -1,0 +1,27 @@
+{
+    "apiversion": "<version>",
+    "code": 200,
+    "status": "OK",
+    "message": "OK",
+    "data": {
+        "questions": [
+            {
+                "paramName": "IsTheMaterial_0",
+                "displayName": "Is the material a small part or adhesive?",
+                "responses": "ans",
+                "paramType": "AP",
+                "rowId": "2",
+                "orderNum": "0"
+            }
+        ],
+        "tableNumber": "",
+        "aeoDetails": "",
+        "notes": "",
+        "remarks": {
+            "relatedInfo": [],
+            "comments": "",
+            "reasonCode": "",
+            "user": "user"
+        }
+    }
+}

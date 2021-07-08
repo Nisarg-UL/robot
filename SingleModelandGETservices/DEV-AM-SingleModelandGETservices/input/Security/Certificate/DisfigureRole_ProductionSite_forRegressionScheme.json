@@ -1,0 +1,27 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Production Site",
+        "attributes": [
+            {
+                "attributeName": "Standard Number",
+                "readAccess": "N"
+            },
+            {
+                "attributeName": "Standard Code",
+                "readAccess": "N"
+            },
+            {
+                "attributeName": "Standard Detail",
+                "readAccess": "N"
+            },
+            {
+                "attributeName": "Standard Description",
+                "readAccess": "N"
+            }
+        ]
+    }
+}

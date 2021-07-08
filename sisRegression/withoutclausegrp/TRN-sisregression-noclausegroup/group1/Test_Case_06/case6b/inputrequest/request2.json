@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "6",
+            "aeoDetails": "",
+            "hasMoreRows": true,
+            "verdict": "PENDING NA",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "clauseId": "6",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "HereIsA_0",
+                "responses": "Item 6",
+                "displayName": "Here is a List of Values",
+                "rowId": "22",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "22",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "3rd"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - No Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 1",
+            "subGroupName": "Test Case 6 - List of Values"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

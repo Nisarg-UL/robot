@@ -1,0 +1,70 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "1.1a",
+            "hasMoreRows": true,
+            "aeoDetails": "",
+            "verdict": "PENDING NA",
+            "clauseGroupText": "e,f",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "1.1a",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "AP1_0",
+                "responses": "No",
+                "displayName": "AP 1",
+                "rowId": "11",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SelectYesTo_1",
+                "responses": "Yes",
+                "displayName": "Select Yes to Pass RP Row 2 and ask clauses 1.3, 1.4",
+                "rowId": "12",
+                "orderNum": "2",
+                "uom": "",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "12",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 4 - Clause Navigation",
+            "subGroupName": "Sub-Group 2"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

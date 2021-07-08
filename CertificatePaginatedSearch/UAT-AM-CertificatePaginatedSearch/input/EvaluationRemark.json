@@ -1,0 +1,12 @@
+{
+    "referenceId": "${assessmentParamId}",
+    "comments": "This is Evaluation Remarks Entered with Automation",
+    "reasonCode": "",
+    "user": "Nisarg_Automation",
+    "relatedInfo": [
+        {
+            "entityId": "${assessmentId}",
+            "entityType": "Evaluation"
+        }
+    ]
+}

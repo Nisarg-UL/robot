@@ -1,0 +1,23 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Public",
+        "attributes": [
+            {
+                "attributeName": "",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

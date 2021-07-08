@@ -1,0 +1,79 @@
+{
+    "results": [],
+    "evaluations": {
+        "clauseId": "2",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "AP1_0",
+                "responses": "Yes",
+                "displayName": "AP1",
+                "rowId": "6",
+                "orderNum": "0",
+                "uom": "",
+                "guidanceNote": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "AP2_0",
+                "responses": "Yes",
+                "displayName": "AP2",
+                "rowId": "6",
+                "orderNum": "1",
+                "uom": "",
+                "guidanceNote": "GN on AP2 - row 6.",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "RP1_0",
+                "responses": "Yes",
+                "displayName": "RP1",
+                "rowId": "6",
+                "orderNum": "3",
+                "uom": "",
+                "guidanceNote": "",
+                "paramType": "RP"
+            },
+            {
+                "paramName": "RP2_0",
+                "responses": "Yes",
+                "displayName": "RP2",
+                "rowId": "6",
+                "orderNum": "4",
+                "uom": "",
+                "guidanceNote": "GN on RP2 - row 6.",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "6",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 8 - Guidance Notes",
+            "subGroupName": "RG8-RsG2"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

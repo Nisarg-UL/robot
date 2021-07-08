@@ -1,0 +1,23 @@
+{
+    "data": {
+        "entity": "Product",
+        "entityName": "Regression Test Product 1",
+        "tabName": "Details",
+        "user": "ManojAutomation",
+        "role": "Public",
+        "attributes": [
+            {
+                "attributeName": "",
+                "readAccess": "N"
+            },
+            {
+                "attributeName": "",
+                "readAccess": "N"
+            },
+            {
+                "attributeName": "",
+                "readAccess": "N"
+            }
+        ]
+    }
+}

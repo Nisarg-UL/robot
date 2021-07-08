@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "11",
+            "aeoDetails": "",
+            "hasMoreRows": true,
+            "verdict": "PENDING NA",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "clauseId": "11",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "YesToProceed_1",
+                "responses": "Yes",
+                "displayName": "Yes to proceed to Requirement Parameter Questions - No to end test with Not Applicable",
+                "rowId": "32",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "32",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "3rd"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - No Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 1",
+            "subGroupName": "Test Case 11 - Multiple Requirement Parameter Questions"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "orderBy": "-${updatedOn_key}",
+        "searchParameters": {
+            "${search_parameter}": {
+                "operator": "${operator_value}",
+                "value": "${search_parameter_value}"
+            }
+        }
+    }
+}

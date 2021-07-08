@@ -1,0 +1,23 @@
+{
+    "data": {
+        "entity": "Product",
+        "entityName": "Regression Test Product 1",
+        "tabName": "Details",
+        "user": "ManojAutomation",
+        "role": "Public",
+        "attributes": [
+            {
+                "attributeName": "Invalid Attribute 1",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Invalid Attribute 2",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Invalid Attribute 3",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

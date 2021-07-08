@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "28",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "29",
+                "responses": "2015-10-05",
+                "uom": "",
+                "displayName": "TP1 Attribute 44",
+                "paramName": "TP1Attribute44_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "29",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Value was less than or equal to 1977-10-05 and greater than or equal to 1878-10-05 - Yes to Pass",
+                "paramName": "ValueWasLess_3",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "29",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 12 - Data Linked Scenarios - Data Group",
+            "subGroupName": "Date with Ranges"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

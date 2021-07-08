@@ -1,0 +1,47 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "attributes": [],
+                "hierarchy": [
+                    {
+                        "name": "Certificate Type",
+                        "dataParamName": "attribCertificateType",
+                        "value": "Regression Scheme"
+                    }
+                ],
+                "hasTransaction": [
+                    {
+                        "hasAssets": [${has_Assets}],
+                        "transactionId": "${Transaction_Id}",
+                        "certificateId": "${Certificate_Id}",
+                        "hasEvaluations": [${has_Evaluations}],
+                        "attributes": [],
+                        "hasParties": [],
+                        "supplyChainId": ""
+                    }
+                ],
+                "hierarchyId": "${certificate_hierarchy_Id}",
+                "hasQuestions": [],
+                "hasRecommendation": [],
+                "hasCertify": [],
+                "hasError": [],
+                "issueDate": "",
+                "expiryDate": "",
+                "certify": "N",
+                "withdrawalDate": "",
+                "revisionDate": "",
+                "ownerReference": "${Asset_Owner_Ref}",
+                "user": "50696",
+                "updatedBy": "",
+                "updatedOn": "",
+                "accepted": "N",
+                "issuingBody": "USA",
+                "mark": "Listed",
+                "certificateName": "${certificate_name_1}-${current_time}",
+                "certificateType": "Regression Scheme",
+                "revisionNumber": "0"
+            }
+        ]
+    }
+}

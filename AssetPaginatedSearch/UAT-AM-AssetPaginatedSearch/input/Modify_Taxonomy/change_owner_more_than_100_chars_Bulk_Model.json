@@ -1,0 +1,26 @@
+{
+    "current": {
+        "productType": "Regression Test Product 1",
+        "ownerReference_PartySiteID": "${Asset1_Owner_Ref}",
+        "referenceNumber": "${Asset_Ref_No}",
+        "family_Series": "Reg-Test",
+        "modelName": "${model_name_1}_${current_time}",
+        "creationDate": "${today_date}"
+    },
+    "new": {
+        "ownerReference_PartySiteID": "${model_name_1}_${current_time}_${Asset1_Owner_Ref}_reg-test_DEMOFILE01_Collection1_More_than_100_characters_Tests",
+        "referenceNumber": "${Asset_Ref_No}"
+    },
+    "collectionParams": {
+        "collectionName": "Collection1",
+        "projectNumber": "${Asset1_Collection_Project_no}",
+        "quoteNumber": "${Asset1_Collection_Quote_no}",
+        "orderNumber": "${Asset1_Collection_Order_no}"
+    },
+    "modifiedBy": "Nisarg_Automation",
+    "modifiedFor": "For-Automation",
+    "serviceReqId": "INC_Automation",
+    "reasonCode": "User Error Correction"
+}
+
+

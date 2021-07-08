@@ -1,0 +1,27 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "${entity_name}",
+        "tabName": "${tab_name}",
+        "user": "${user}",
+        "role": "${role}",
+        "attributes": [
+            {
+                "attributeName": "Question1",
+                "readAccess": "${read_access}"
+            },
+            {
+                "attributeName": "Question2",
+                "readAccess": "${read_access}"
+            },
+            {
+                "attributeName": "Question3",
+                "readAccess": "${read_access}"
+            },
+            {
+                "attributeName": "Question4",
+                "readAccess": "${read_access}"
+            }
+        ]
+    }
+}

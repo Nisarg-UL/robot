@@ -1,0 +1,49 @@
+{
+    "results": [
+    ],
+    "evaluations": {
+        "clauseId": "13",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "TestCase13_0",
+                "responses": "Yes",
+                "displayName": "Test Case 13 - Select Yes to test Evaluation Not Required on Entire Requirement Group - Select No to end test with Not Applicable",
+                "rowId": "2",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "2",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 2 - Evaluation Not Required Tests",
+            "subGroupName": "General"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

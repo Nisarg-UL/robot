@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "10",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "11",
+                "responses": "Thirteen",
+                "uom": "",
+                "displayName": "TP1 Attribute 73",
+                "paramName": "TP1Attribute73_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "11",
+                "responses": "No",
+                "uom": "",
+                "displayName": "Value was less than or equal to Seventeen and greater than or equal to Thirteen - Yes to Pass",
+                "paramName": "ValueWasLess_0",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "11",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 12 - Data Linked Scenarios - Data Group",
+            "subGroupName": "Scale with Ranges"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

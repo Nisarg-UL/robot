@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "4",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "5",
+                "responses": "Neutral",
+                "uom": "",
+                "displayName": "TP1 Attribute 1",
+                "paramName": "TP1Attribute1_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "5",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if value Neutral is populated - Yes for Pass - No for Fail",
+                "paramName": "CheckToSee_3",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "5",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 11 - Data Linked Scenarios - Non-Data Group",
+            "subGroupName": "Scale with Value function and 1 cardinality - Equals"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

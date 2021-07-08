@@ -1,0 +1,447 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "",
+                "ulAssetId": "",
+                "collectionId": "",
+                "user": "Manoj_Automation",
+                "hierarchy": [
+                    {
+                        "name": "Product Type",
+                        "dataParamName": "attribProductType",
+                        "value": "Data Misfit Automation"
+                    }
+                ],
+                "taxonomy": [
+                    {
+                        "name": "Product Type",
+                        "value": "Data Misfit Automation",
+                        "dataParamName": "productType"
+                    },
+                    {
+                        "name": "Owner Reference (Party Site ID)",
+                        "value": "Replace Owner",
+                        "dataParamName": "ownerReference_PartySiteID"
+                    },
+                    {
+                        "name": "Reference Number",
+                        "value": "DEMOFILE01",
+                        "dataParamName": "referenceNumber"
+                    },
+                    {
+                        "name": "Family / Series",
+                        "value": "Reg-Test",
+                        "dataParamName": "family_Series"
+                    },
+                    {
+                        "name": "Model Name",
+                        "value": "Data Misfit Model 02",
+                        "dataParamName": "modelName"
+                    },
+                    {
+                        "name": "Creation Date",
+                        "value": "Replace Date",
+                        "dataParamName": "creationDate"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "uom": "N/A",
+                        "name": "Product Type",
+                        "dataParamName": "productType",
+                        "seq": "",
+                        "value": "Data Misfit Automation"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Owner Reference (Party Site ID)",
+                        "dataParamName": "ownerReference_PartySiteID",
+                        "seq": "",
+                        "value": "Replace Owner"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Reference Number",
+                        "dataParamName": "referenceNumber",
+                        "seq": "",
+                        "value": "DEMOFILE01"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Family / Series",
+                        "dataParamName": "family_Series",
+                        "seq": "",
+                        "value": "Reg-Test"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Model Name",
+                        "dataParamName": "modelName",
+                        "seq": "",
+                        "value": "Data Misfit Model 02"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Creation Date",
+                        "dataParamName": "creationDate",
+                        "seq": "",
+                        "value": "Replace Date"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Text Attribute 1 - LOV",
+                        "dataParamName": "textAttribute1_LOV",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Text Attribute 2 - LOV",
+                        "dataParamName": "textAttribute2_LOV",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Text Attribute 3 - LOV",
+                        "dataParamName": "textAttribute3_LOV",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "first",
+                        "name": "Text Attribute 4 - LOV",
+                        "dataParamName": "textAttribute4_LOV",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Attribute 1",
+                        "dataParamName": "dataGroupAttribute1",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Attribute 2",
+                        "dataParamName": "dataGroupAttribute2",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Attribute 3",
+                        "dataParamName": "dataGroupAttribute3",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Attribute 4",
+                        "dataParamName": "dataGroupAttribute4",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Integer Attribute 1",
+                        "dataParamName": "integerAttribute1",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Integer Attribute 2",
+                        "dataParamName": "integerAttribute2",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 1 - I to Dec",
+                        "dataParamName": "changedDataType1_ItoDec",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 2 - Dec to I",
+                        "dataParamName": "changedDataType2_DectoI",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 3 - T to B",
+                        "dataParamName": "changedDataType3_TtoB",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 4 - B to T",
+                        "dataParamName": "changedDataType4_BtoT",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 5 - I to T",
+                        "dataParamName": "changedDataType5_ItoT",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 5a - T to I",
+                        "dataParamName": "changedDataType5a_TtoI",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 6 - Dec to T",
+                        "dataParamName": "changedDataType6_DectoT",
+                        "seq": "",
+                        "value": "5.3"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 6a - T to Dec",
+                        "dataParamName": "changedDataType6a_TtoDec",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 7 - Date to T",
+                        "dataParamName": "changedDataType7_DatetoT",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 8 - T to C",
+                        "dataParamName": "changedDataType8_TtoC",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 10 - LOV to Scale",
+                        "dataParamName": "changedDataType10_LOVtoScale",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Changed Data Type 11 - Scale to LOV",
+                        "dataParamName": "changedDataType11_ScaletoLOV",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Removal 1",
+                        "dataParamName": "dataGroupRemoval1",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Removal 2",
+                        "dataParamName": "dataGroupRemoval2",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Removal 3",
+                        "dataParamName": "dataGroupRemoval3",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Removal 4",
+                        "dataParamName": "dataGroupRemoval4",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Add 1",
+                        "dataParamName": "dataGroupAdd1",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Add 2",
+                        "dataParamName": "dataGroupAdd2",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Add 3",
+                        "dataParamName": "dataGroupAdd3",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Data Group Add 4",
+                        "dataParamName": "dataGroupAdd4",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Cardinality Change 1 - Integer",
+                        "dataParamName": "cardinalityChange1_Integer",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Cardinality Change 2 - Decimal",
+                        "dataParamName": "cardinalityChange2_Decimal",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Cardinality Change 3 - Text",
+                        "dataParamName": "cardinalityChange3_Text",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "",
+                        "name": "metadataId",
+                        "dataParamName": "metadataId",
+                        "seq": "",
+                        "value": "${misfit_v1_metadataId}"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Collection Name",
+                        "seq": "",
+                        "dataParamName": "collectionName",
+                        "value": "Reg-Collection"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Order Number",
+                        "seq": "",
+                        "dataParamName": "orderNumber",
+                        "value": "Replace Order"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Project Number",
+                        "seq": "",
+                        "dataParamName": "projectNumber",
+                        "value": "Replace Project"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Quote Number",
+                        "seq": "",
+                        "dataParamName": "quoteNumber",
+                        "value": "Replace Quote"
+                    }
+                ],
+                "hasComponents": [
+                ],
+                "sharedAttributes": [
+                    {
+                        "name": "Shared Attribute 1",
+                        "value": "Yes",
+                        "dataParamName": "sharedAttribute1"
+                    },
+                    {
+                        "name": "Shared Attribute 2",
+                        "value": "Shared-2",
+                        "dataParamName": "sharedAttribute2"
+                    },
+                    {
+                        "name": "Shared Attribute 3",
+                        "value": "2017-05-04",
+                        "dataParamName": "sharedAttribute3"
+                    },
+                    {
+                        "name": "Shared Attribute 4",
+                        "value": "",
+                        "dataParamName": "sharedAttribute4"
+                    },
+                    {
+                        "name": "Shared Attribute 5",
+                        "value": "Shared-7",
+                        "dataParamName": "sharedAttribute5"
+                    },
+                    {
+                        "name": "Shared Attribute 6",
+                        "value": "Yes",
+                        "dataParamName": "sharedAttribute6"
+                    },
+                    {
+                        "name": "Shared Attribute 7",
+                        "value": "",
+                        "dataParamName": "sharedAttribute7"
+                    },
+                    {
+                        "name": "Shared Attribute 8",
+                        "value": "2017-05-04",
+                        "dataParamName": "sharedAttribute8"
+                    },
+                    {
+                        "name": "Shared Attribute 9",
+                        "value": "IV",
+                        "dataParamName": "sharedAttribute9"
+                    },
+                    {
+                        "name": "Shared Attribute 10",
+                        "value": "D",
+                        "dataParamName": "sharedAttribute10"
+                    },
+                    {
+                        "name": "Shared Attribute 11",
+                        "value": "2017-05-04",
+                        "dataParamName": "sharedAttribute11"
+                    },
+                    {
+                        "name": "Shared Attribute 12",
+                        "value": "20",
+                        "dataParamName": "sharedAttribute12"
+                    }
+                ],
+                "collectionAttributes": [
+                    {
+                        "name": "Collection Name",
+                        "value": "Reg-Collection",
+                        "dataParamName": "collectionName"
+                    },
+                    {
+                        "name": "Project Number",
+                        "value": "Replace Project",
+                        "dataParamName": "projectNumber"
+                    },
+                    {
+                        "name": "Quote Number",
+                        "value": "Replace Quote",
+                        "dataParamName": "quoteNumber"
+                    },
+                    {
+                        "name": "Order Number",
+                        "value": "Replace Order",
+                        "dataParamName": "orderNumber"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "data": {
+        "scopeScheme": [],
+        "removed": [
+            {
+                "schemeScopeId": "${Regression_schemeScopeId}"
+            }
+        ],
+        "user": "Manoj_Automation"
+    }
+}

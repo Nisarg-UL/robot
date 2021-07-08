@@ -1,0 +1,285 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "${asset_Id_Product1}",
+                "user": "Manoj_Automation",
+                "collectionId": "${Collection_Id}",
+                "ulAssetId": "${asset_Id_Product1}",
+                "hasComponents": [
+                    {
+                        "assetId": "${asset_Id_Product2}",
+                        "assetAssetLinkSeqId": "",
+                        "hierarchy": [
+                            {
+                                "name": "Product Type",
+                                "dataParamName": "attribProductType",
+                                "value": "Data Misfit Component A"
+                            }
+                        ],
+                        "taxonomy": [
+                        ],
+                        "isAlternateOf": [
+                        ],
+                        "attributes": [
+                        ],
+                        "hasAssetLinkage": [
+                            {
+                                "uom": "N/A",
+                                "name": "Component Name",
+                                "dataParamName": "componentName",
+                                "seq": "",
+                                "value": "Data Misfit Component 01"
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Text Attribute 1 - LOV",
+                                "dataParamName": "textAttribute1_LOV",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Text Attribute 2 - LOV",
+                                "dataParamName": "textAttribute2_LOV",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Text Attribute 3 - LOV",
+                                "dataParamName": "textAttribute3_LOV",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "first",
+                                "name": "Text Attribute 4 - LOV",
+                                "dataParamName": "textAttribute4_LOV",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Attribute 1",
+                                "dataParamName": "dataGroupAttribute1",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Attribute 2",
+                                "dataParamName": "dataGroupAttribute2",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Attribute 3",
+                                "dataParamName": "dataGroupAttribute3",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Attribute 4",
+                                "dataParamName": "dataGroupAttribute4",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Integer Attribute 1",
+                                "dataParamName": "integerAttribute1",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Integer Attribute 2",
+                                "dataParamName": "integerAttribute2",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 1 - I to Dec",
+                                "dataParamName": "changedDataType1_ItoDec",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 2 - Dec to I",
+                                "dataParamName": "changedDataType2_DectoI",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 3 - T to B",
+                                "dataParamName": "changedDataType3_TtoB",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 4 - B to T",
+                                "dataParamName": "changedDataType4_BtoT",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 5 - I to T",
+                                "dataParamName": "changedDataType5_ItoT",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 5a - T to I",
+                                "dataParamName": "changedDataType5a_TtoI",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 6 - Dec to T",
+                                "dataParamName": "changedDataType6_DectoT",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 6a - T to Dec",
+                                "dataParamName": "changedDataType6a_TtoDec",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 7 - Date to T",
+                                "dataParamName": "changedDataType7_DatetoT",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 10 - LOV to Scale",
+                                "dataParamName": "changedDataType10_LOVtoScale",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Changed Data Type 11 - Scale to LOV",
+                                "dataParamName": "changedDataType11_ScaletoLOV",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Removal 1",
+                                "dataParamName": "dataGroupRemoval1",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Removal 2",
+                                "dataParamName": "dataGroupRemoval2",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Removal 3",
+                                "dataParamName": "dataGroupRemoval3",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Removal 4",
+                                "dataParamName": "dataGroupRemoval4",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Add 1",
+                                "dataParamName": "dataGroupAdd1",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Add 2",
+                                "dataParamName": "dataGroupAdd2",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Add 3",
+                                "dataParamName": "dataGroupAdd3",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Data Group Add 4",
+                                "dataParamName": "dataGroupAdd4",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Cardinality Change 1 - Integer",
+                                "dataParamName": "cardinalityChange1_Integer",
+                                "seq": "1",
+                                "value": "1"
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Cardinality Change 1 - Integer",
+                                "dataParamName": "cardinalityChange1_Integer",
+                                "seq": "2",
+                                "value": "5"
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Cardinality Change 1 - Integer",
+                                "dataParamName": "cardinalityChange1_Integer",
+                                "seq": "3",
+                                "value": "9"
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Cardinality Change 2 - Decimal",
+                                "dataParamName": "cardinalityChange2_Decimal",
+                                "seq": "1",
+                                "value": ""
+                            },
+                            {
+                                "uom": "N/A",
+                                "name": "Cardinality Change 3 - Text",
+                                "dataParamName": "cardinalityChange3_Text",
+                                "seq": "",
+                                "value": ""
+                            },
+                            {
+                                "uom": "",
+                                "name": "Functional Use",
+                                "dataParamName": "functionalUse",
+                                "seq": "",
+                                "value": "Functional Use 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

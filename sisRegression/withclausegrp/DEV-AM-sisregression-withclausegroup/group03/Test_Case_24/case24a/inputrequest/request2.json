@@ -1,0 +1,68 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "24",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "17",
+                "responses": "A",
+                "uom": "",
+                "displayName": "TP1 Attribute 6",
+                "paramName": "TP1Attribute6_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "17",
+                "responses": "Skeletor",
+                "uom": "",
+                "displayName": "TP1 Attribute 32",
+                "paramName": "TP1Attribute32_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "17",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to ensure value was not E and not Snark - Yes to Pass - No for Fail",
+                "paramName": "CheckToEnsure_9",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "17",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 24 - LOV - Not Equals"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

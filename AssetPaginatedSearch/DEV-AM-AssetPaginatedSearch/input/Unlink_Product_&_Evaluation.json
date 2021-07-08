@@ -1,0 +1,14 @@
+{
+    "hasTransaction": [
+        {
+            "hasAssets": [],
+            "transactionId": "${Cert_Transaction_Id}",
+            "certificateId": "${Certificate_Id}",
+            "hasEvaluations": [],
+            "attributes": [],
+            "hasParties": [],
+            "supplyChainId": ""
+        }
+    ],
+    "user": "50696"
+}

@@ -1,0 +1,99 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "3",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "FAIL",
+            "clauseGroupText": "C, C-Fail",
+            "notes": "",
+            "clauseText": ""
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "2",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "FAIL",
+            "clauseGroupText": "B, B-Fail",
+            "notes": "",
+            "clauseText": ""
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "1",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "PASS",
+            "clauseGroupText": "A, A-Pass",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "4",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "14",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Is this Clause Q4 applicable?",
+                "paramName": "IsThisClause_3",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "3",
+                "rowId": "14",
+                "responses": "No",
+                "uom": "",
+                "displayName": "Do you comply with this Clause Q4?",
+                "paramName": "DoYouComply_3",
+                "paramType": "requirement"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "16",
+                "responses": "Add Test",
+                "uom": "",
+                "displayName": "Explicit Option",
+                "paramName": "ExplicitOption_0",
+                "paramType": "applicability"
+            }
+        ],
+        "rowId": "16",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 15 - Clause Verdict Roll Up Testing",
+            "subGroupName": "Test"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

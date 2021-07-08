@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "11",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "12",
+                "responses": "2018-06-20",
+                "uom": "",
+                "displayName": "TP1 Attribute 64",
+                "paramName": "TP1Attribute64_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "12",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if the max values were populated accurately - Yes for Pass - No for Fail",
+                "paramName": "CheckToSee_7",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "12",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 11 - Data Linked Scenarios - Non-Data Group",
+            "subGroupName": "Date with Max function"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

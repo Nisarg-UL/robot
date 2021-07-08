@@ -1,0 +1,21 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "-${updatedOn_key}",
+        "completed": "",
+        "accepted": "",
+        "modelNomenclature": "${modelNomenclature_1}",
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[],
+        "facet": [
+            {
+                "field": "${field_value}"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "schemeScopeStandard": [],
+        "skipvalidation": "",
+        "removed": [
+            {
+                "schemeScopeStandardId": "${RegVal_schemeScopeStandardId}"
+            }
+        ],
+        "user": "Manoj_Automation"
+    }
+}

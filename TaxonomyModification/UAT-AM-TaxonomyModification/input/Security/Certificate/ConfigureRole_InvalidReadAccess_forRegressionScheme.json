@@ -1,0 +1,23 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Public",
+        "attributes": [
+            {
+                "attributeName": "Invalid Attribute 1",
+                "readAccess": "I"
+            },
+            {
+                "attributeName": "Invalid Attribute 2",
+                "readAccess": "I"
+            },
+            {
+                "attributeName": "Invalid Attribute 3",
+                "readAccess": "I"
+            }
+        ]
+    }
+}

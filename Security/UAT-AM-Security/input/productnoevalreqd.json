@@ -1,0 +1,23 @@
+{
+    "projectNumber": "Nisarg_Automation_Evaluation",
+    "scope": "There is No-Evaluation Comments required here",
+    "items": [
+        {
+            "hierarchyId": "${noEvalReqd_hierarchy_Id}",
+            "hierarchy": [],
+            "remarks": {
+                "comments": "There is No-Evaluation Comments required here",
+                "reasonCode": "Similar to existing model, no evaluation required",
+                "user": "Nisarg_Automation",
+                "relatedInfo": [
+                    {
+                        "entityId": "",
+                        "entityType": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "removed": [],
+    "user": "Nisarg_Automation"
+}

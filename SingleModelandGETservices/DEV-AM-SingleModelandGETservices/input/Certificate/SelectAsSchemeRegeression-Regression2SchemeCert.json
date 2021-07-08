@@ -1,0 +1,148 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "attributes": [
+                    {
+                        "dataParamName": "certificateType",
+                        "value": "Regression2 Scheme",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "issuingBody",
+                        "value": "USA",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "mark",
+                        "value": "Listed",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "certificateName",
+                        "value": "${certificate2_name_1}",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "ownerReference",
+                        "value": "${Asset_Owner_Ref}",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "certificationSchemeOwner",
+                        "value": "UL LLC",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "modelNumbers",
+                        "value": "Certificate_Automation",
+                        "uom": "N/A",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "certificationSchemeProductType",
+                        "value": "Regression Test Product 1",
+                        "uom": "N/A",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "certificationSchemeProductTypeCode",
+                        "value": "008",
+                        "uom": "N/A",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "standardNumber",
+                        "value": "Validation",
+                        "uom": "N/A",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "standardCode",
+                        "value": "4th",
+                        "uom": "N/A",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "cCN",
+                        "value": "QMFZ",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "complementaryCCN",
+                        "value": "QMFZ",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "footnoteSymbol",
+                        "value": "",
+                        "uom": "N/A",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "testDate",
+                        "value": "Replace Date",
+                        "uom": "N/A",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "metadataId",
+                        "value": "${certificate2_metadataId}",
+                        "uom": "",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "revisionNumber",
+                        "value": "0",
+                        "uom": "N/A",
+                        "seq": ""
+                    }
+                ],
+                "ref_attributes": [
+                    {
+                        "dataParamName": "certificationProductType",
+                        "name": "Certification Product Type",
+                        "value": "${Regression_schemeScopeId}",
+                        "pkSchemeScopeId": "${Regression_schemeScopeId}",
+                        "pkScopeId": "${scope_Id}",
+                        "uom": "",
+                        "action": "add",
+                        "seq": ""
+                    }
+                ],
+                "hierarchy": [
+                    {
+                        "name": "Certificate Type",
+                        "dataParamName": "attribCertificateType",
+                        "value": "Regression2 Scheme"
+                    }
+                ],
+                "hasTransaction": [],
+                "hasQuestions": [],
+                "hasRecommendation": [],
+                "hasCertify": [],
+                "ownerReference": "${Asset_Owner_Ref}",
+                "user": "50696",
+                "accepted": "N",
+                "issueDate": "",
+                "revisionDate": "",
+                "expiryDate": "",
+                "withdrawalDate": "",
+                "certify": "N",
+                "issuingBody": "USA",
+                "mark": "Listed",
+                "certificateName": "${certificate2_name_1}",
+                "certificateType": "Regression2 Scheme",
+                "revisionNumber": "0"
+            }
+        ]
+    }
+}

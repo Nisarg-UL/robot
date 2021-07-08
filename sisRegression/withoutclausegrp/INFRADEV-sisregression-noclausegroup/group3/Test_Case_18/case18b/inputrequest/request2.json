@@ -1,0 +1,68 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "18",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "4",
+                "responses": "-2",
+                "uom": "",
+                "displayName": "TP1 Attribute 33",
+                "paramName": "TP1Attribute33_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "4",
+                "responses": "-0.1",
+                "uom": "",
+                "displayName": "TP1 Attribute 34",
+                "paramName": "TP1Attribute34_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "4",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if the min values were populated accurately - Yes for Pass - No for Fail",
+                "paramName": "CheckToSee_0",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "4",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "3rd",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - No Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 18 - Integer and Decimal with Min function"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

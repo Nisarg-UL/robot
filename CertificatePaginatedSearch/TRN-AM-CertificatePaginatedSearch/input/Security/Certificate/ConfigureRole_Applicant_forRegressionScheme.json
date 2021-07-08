@@ -1,0 +1,23 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Applicant",
+        "attributes": [
+            {
+                "attributeName": "Electrical Efficiency Rated",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Energy Efficiency Rating",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Test Date",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

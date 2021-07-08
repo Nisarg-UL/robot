@@ -1,0 +1,68 @@
+{
+    "results": [
+        {
+            "tableNumber": "Table 1",
+            "clauseId": "12",
+            "hasMoreRows": true,
+            "aeoDetails": "",
+            "verdict": "PENDING FAIL",
+            "clauseGroupText": "l",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "clauseId": "12",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "YesToProceed_2",
+                "responses": "Yes",
+                "displayName": "Yes to proceed to test multiple clause and table number viewability, select No to test lack of table number",
+                "rowId": "33",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SelectYesTo_3",
+                "responses": "Yes",
+                "displayName": "Select Yes to finish test with Pass and see both clauses and table number - Select No to finish test with Fail and see only Clause 12",
+                "rowId": "33",
+                "orderNum": "4",
+                "uom": "",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "33",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 1",
+            "subGroupName": "Test Case 12 and 13 - Multiple Clauses and Table Number in results"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

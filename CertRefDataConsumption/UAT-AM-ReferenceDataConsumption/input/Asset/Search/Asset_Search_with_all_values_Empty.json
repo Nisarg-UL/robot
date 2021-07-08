@@ -1,0 +1,26 @@
+{
+    "data": {
+        "searchText": "",
+        "user": "",
+        "offset": "",
+        "rows": "",
+        "orderBy": "",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "",
+        "modelNomenclature": "",
+        "fromDate": "",
+        "toDate": "",
+        "fromCreatedDate": "",
+        "toCreatedDate": "",
+        "fromModifiedDate": "",
+        "toModifiedDate": "",
+        "searchParameters": {},
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[],
+        "facet": []
+    }
+}

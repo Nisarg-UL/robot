@@ -1,0 +1,80 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "1.6",
+            "hasMoreRows": true,
+            "aeoDetails": "",
+            "verdict": "PENDING NA",
+            "clauseGroupText": "q",
+            "notes": "",
+            "clauseText": ""
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "1.5",
+            "aeoDetails": "",
+            "hasMoreRows": false,
+            "verdict": "NA",
+            "notes": "",
+            "clauseGroupText": "p",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "1.6",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "SelectYesFor_1",
+                "responses": "No",
+                "displayName": "Select Yes for Pass to 1.6",
+                "rowId": "41",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SameQuestionIn_0",
+                "responses": "Yes",
+                "displayName": "Same question in line 2, test for question suppression",
+                "rowId": "42",
+                "orderNum": "1",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "42",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 4 - Clause Navigation",
+            "subGroupName": "Sub-Group 4"
+        },
+        "mode": "edit"
+    },
+    "user": "Nisarg_Automation"
+}

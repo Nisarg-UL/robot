@@ -1,0 +1,15 @@
+{
+    "data": {
+        "schemeScopeStandard": [
+            {
+                "standardId": "${Validation_standard_Id}",
+                "standardLevel": "Primary",
+                "schemeScopeId": "${Regression_schemeScope2Id}",
+                "standardLabelId": "${Validation_standardLabel2_Id}"
+            }
+        ],
+        "skipvalidation": "",
+        "removed": [],
+        "user": "Manoj_Automation"
+    }
+}

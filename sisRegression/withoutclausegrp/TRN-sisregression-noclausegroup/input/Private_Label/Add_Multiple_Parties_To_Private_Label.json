@@ -1,0 +1,30 @@
+{
+    "parties": [
+        {
+            "accountNumber": "1542259",
+            "partySiteNumber": "1606567",
+            "relationshipName": "Brand Owner"
+        },
+        {
+            "partySiteNumber": "551380",
+            "accountNumber": "249219",
+            "relationshipName": "Production Site"
+        },
+        {
+            "partySiteNumber": "651380",
+            "accountNumber": "259219",
+            "relationshipName": "Production Site"
+        },
+        {
+            "partySiteNumber": "3245678",
+            "accountNumber": "9568758",
+            "relationshipName": "Applicant"
+        },
+        {
+            "accountNumber": "351328",
+            "partySiteNumber": "2356898",
+            "relationshipName": "Local Representative"
+        }
+    ],
+    "user": "50696"
+}

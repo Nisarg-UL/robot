@@ -1,0 +1,13 @@
+{
+  "data": {
+    "scopeScheme": [
+      {
+        "scopeId": "",
+        "schemeId": "${certificate_hierarchy_Id}",
+        "schemeName": "${certificate_schemeName}"
+      }
+    ],
+    "removed": [],
+    "user": "Manoj_Automation"
+  }
+}

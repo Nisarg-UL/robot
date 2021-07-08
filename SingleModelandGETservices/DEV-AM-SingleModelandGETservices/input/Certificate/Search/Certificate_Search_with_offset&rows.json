@@ -1,0 +1,13 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "${offset_value}",
+        "rows": "${rows_value}",
+        "orderBy": "-${issueDate_key}",
+        "ownerReferenceList": [
+            {
+                "ownerReference": "${Cert_Owner_Ref}"
+            }
+        ]
+    }
+}

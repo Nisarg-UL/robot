@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "23",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "13",
+                "responses": "Cheetara",
+                "uom": "",
+                "displayName": "TP1 Attribute 32",
+                "paramName": "TP1Attribute32_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "15",
+                "responses": "No",
+                "uom": "",
+                "displayName": "Check to ensure value was Cheetara - Yes to Pass - No for Fail",
+                "paramName": "CheckToEnsure_7",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "15",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 23 - LOV - Card n"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

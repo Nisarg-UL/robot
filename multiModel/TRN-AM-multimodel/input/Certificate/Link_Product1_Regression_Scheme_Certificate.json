@@ -1,0 +1,19 @@
+{
+    "hasTransaction": [
+        {
+            "hasAssets": [
+                {
+                    "assetId": "${asset_Id_Product1}",
+                    "ulAssetId": "${ul_asset_Id}",
+                    "productType": "Regression Test Product 1"
+                }
+            ],
+            "transactionId": "${Cert_Transaction_Id}",
+            "certificateId": "${Certificate_Id}",
+            "hasEvaluations": [
+            ],
+            "supplyChainId": ""
+        }
+    ],
+    "user": "50696"
+}

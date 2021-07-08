@@ -1,0 +1,316 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "",
+                "ulAssetId": "",
+                "collectionId": "",
+                "user": "Nisarg_Automation",
+                "hierarchy": [
+                    {
+                        "name": "Product Type",
+                        "dataParamName": "attribProductType",
+                        "value": "Regression Test Product 3"
+                    }
+                ],
+                "taxonomy": [
+                    {
+                        "name": "Product Type",
+                        "value": "Regression Test Product 3",
+                        "dataParamName": "productType"
+                    },
+                    {
+                        "name": "Owner Reference (Party Site ID)",
+                        "value": "Replace Owner",
+                        "dataParamName": "ownerReference_PartySiteID"
+                    },
+                    {
+                        "name": "Reference Number",
+                        "value": "${reference_number_1}",
+                        "dataParamName": "referenceNumber"
+                    },
+                    {
+                        "name": "Family / Series",
+                        "value": "${family_series_1}-${current_time}",
+                        "dataParamName": "family_Series"
+                    },
+                    {
+                        "name": "Model Name",
+                        "value": "${model_name_3}_${current_time}",
+                        "dataParamName": "modelName"
+                    },
+                    {
+                        "name": "Creation Date",
+                        "value": "Replace Date",
+                        "dataParamName": "creationDate"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "dataParamName": "productType",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Regression Test Product 3"
+                    },
+                    {
+                        "dataParamName": "ownerReference_PartySiteID",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Replace Owner"
+                    },
+                    {
+                        "dataParamName": "referenceNumber",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${reference_number_1}"
+                    },
+                    {
+                        "dataParamName": "family_Series",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${family_series_1}-${current_time}"
+                    },
+                    {
+                        "dataParamName": "modelName",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${model_name_3}_${current_time}"
+                    },
+                    {
+                        "dataParamName": "creationDate",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Replace Date"
+                    },
+                    {
+                        "dataParamName": "collectionName",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${collection_3}"
+                    },
+                    {
+                        "dataParamName": "projectNumber",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Replace Project"
+                    },
+                    {
+                        "dataParamName": "quoteNumber",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Replace Quote"
+                    },
+                    {
+                        "dataParamName": "orderNumber",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Replace Order"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute1",
+                        "uom": "gigawatts",
+                        "value": "",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP3Attribute2",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP3Attribute3",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute3",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "2"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute3",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "3"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute4",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute4",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "2"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute4",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "3"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute5",
+                        "uom": "A",
+                        "value": "123",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP3Attribute6",
+                        "uom": "B",
+                        "value": "0",
+                        "seq": "",
+                        "defaultValue": "0"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute7",
+                        "uom": "C",
+                        "value": "0",
+                        "seq": "",
+                        "defaultValue": "0"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute8",
+                        "uom": "N/A",
+                        "value": "No",
+                        "seq": "",
+                        "defaultValue": "No"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute9",
+                        "uom": "N/A",
+                        "value": "1944-06-18",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP3Attribute10",
+                        "uom": "N/A",
+                        "value": "Panthero",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute11",
+                        "uom": "Dalmations",
+                        "value": "0",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute12",
+                        "uom": "N/A",
+                        "value": "-9.5",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute13",
+                        "uom": "N/A",
+                        "value": "Yes",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP3Attribute14",
+                        "uom": "N/A",
+                        "value": "1977-01-20",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "metadataId",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${Reg_prod3_metadataId}"
+                    },
+                    {
+                        "dataParamName": "sharedAttribute1",
+                        "uom": "N/A",
+                        "value": "Yes",
+                        "seq": "",
+                        "defaultValue": ""
+                    },
+                    {
+                        "dataParamName": "sharedAttribute2",
+                        "uom": "N/A",
+                        "value": "Shared-10",
+                        "seq": "",
+                        "defaultValue": ""
+                    },
+                    {
+                        "dataParamName": "sharedAttribute3",
+                        "uom": "N/A",
+                        "value": "2017-05-04",
+                        "seq": "",
+                        "defaultValue": ""
+                    },
+                    {
+                        "dataParamName": "sharedAttribute4",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "",
+                        "defaultValue": "50"
+                    },
+                    {
+                        "dataParamName": "sharedAttribute5",
+                        "uom": "N/A",
+                        "value": "Shared-50",
+                        "seq": "",
+                        "defaultValue": ""
+                    }
+                ],
+                "hasComponents": [
+                ],
+                "sharedAttributes": [
+                    {
+                        "name": "Shared Attribute 1",
+                        "value": "Yes",
+                        "dataParamName": "sharedAttribute1"
+                    },
+                    {
+                        "name": "Shared Attribute 2",
+                        "value": "Shared-10",
+                        "dataParamName": "sharedAttribute2"
+                    },
+                    {
+                        "name": "Shared Attribute 3",
+                        "value": "2017-05-04",
+                        "dataParamName": "sharedAttribute3"
+                    },
+                    {
+                        "name": "Shared Attribute 4",
+                        "value": "",
+                        "dataParamName": "sharedAttribute4"
+                    },
+                    {
+                        "name": "Shared Attribute 5",
+                        "value": "Shared-50",
+                        "dataParamName": "sharedAttribute5"
+                    }
+                ],
+                "collectionAttributes": [
+                    {
+                        "name": "Collection Name",
+                        "value": "${collection_3}",
+                        "dataParamName": "collectionName"
+                    },
+                    {
+                        "name": "Project Number",
+                        "value": "Replace Project",
+                        "dataParamName": "projectNumber"
+                    },
+                    {
+                        "name": "Quote Number",
+                        "value": "Replace Quote",
+                        "dataParamName": "quoteNumber"
+                    },
+                    {
+                        "name": "Order Number",
+                        "value": "Replace Order",
+                        "dataParamName": "orderNumber"
+                    }
+                ]
+            }
+        ]
+    }
+}

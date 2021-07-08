@@ -1,0 +1,16 @@
+{
+    "data": {
+        "searchText": "${Asset_Owner_Ref}",
+        "user": "",
+        "offset": "",
+        "rows": "",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "${isPLAsset_value}",
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[]
+    }
+}

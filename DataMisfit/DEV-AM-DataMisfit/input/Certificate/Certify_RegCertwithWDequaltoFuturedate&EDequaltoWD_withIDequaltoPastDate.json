@@ -1,0 +1,129 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "attributes": [],
+                "hierarchy": [
+                    {
+                        "name": "Certificate Type",
+                        "dataParamName": "attribCertificateType",
+                        "value": "Regression Scheme"
+                    }
+                ],
+                "hasTransaction": [
+                    {
+                        "hasAssets": [
+                            ${has_Assets}
+                        ],
+                        "transactionId": "${Transaction_Id}",
+                        "certificateId": "${Certificate_Id}",
+                        "hasEvaluations": [
+                            ${has_Evaluations}
+                        ],
+                        "attributes": [
+                            {
+                                "name": "projectNumber",
+                                "value": "Automation"
+                            }
+                        ],
+                        "hasParties": [
+                           {
+                                "partySiteNumber": "1606567",
+                                "accountNumber": "1542259",
+                                "relationshipType": "Brand Owner",
+                                "ipPartyIdentifier": ""
+                            },
+                            {
+                                "partySiteNumber": "551380",
+                                "accountNumber": "249219",
+                                "relationshipType": "Production Site",
+                                "ipPartyIdentifier": ""
+                            },
+                            {
+                                "partySiteNumber": "3245678",
+                                "accountNumber": "9568758",
+                                "relationshipType": "Applicant",
+                                "ipPartyIdentifier": ""
+                            },
+                            {
+                                "partySiteNumber": "2356898",
+                                "accountNumber": "351328",
+                                "relationshipType": "Local Representative",
+                                "ipPartyIdentifier": ""
+                            }
+                        ],
+                        "supplyChainId": ""
+                    }
+                ],
+                "hierarchyId": "${certificate_hierarchy_Id}",
+                "hasQuestions": [],
+                "hasRecommendation": [],
+                "hasCertify": [
+                    {
+                        "attributes": [
+                            {
+                                "dataParamName": "issueDate",
+                                "value": "Replace Past Date",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "revisionDate",
+                                "value": "",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "withdrawalDate",
+                                "value": "Replace Future Date",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "expiryDate",
+                                "value": "Replace Future Date",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certificationComment",
+                                "value": "The products covered are eligible for Certification under UL's Follow-up Services Program and parties meet all applicable requirements",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certifierEmployeeName",
+                                "value": "Automation",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certifierEmployeeNumber",
+                                "value": 50696,
+                                "uom": "N/A",
+                                "seq": ""
+                            }
+                        ],
+                        "relationshipType": "Certify"
+                    }
+                ],
+                "hasError": [],
+                "certificateStatus":"Under Revision",
+                "issueDate":"Replace Past Date",
+                "revisionDate": "",
+                "expiryDate": "Replace Future Date",
+                "withdrawalDate": "Replace Future Date",
+                "ownerReference": "${Asset_Owner_Ref}",
+                "user": "50696",
+                "updatedBy": "",
+                "updatedOn": "",
+                "certify": "Y",
+                "revisionNumber": "0",
+                "issuingBody": "USA",
+                "mark": "Listed",
+                "certificateName": "Regression-US001-1",
+                "certificateType": "Regression Scheme"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "current": {
+        "productType": "Regression Test Product 1",
+        "ownerReference_PartySiteID": "${Asset1_Owner_Ref}",
+        "referenceNumber": "${Asset_Ref_No}",
+        "family_Series": "Reg-Test",
+        "modelName": "${model_name_1}_${current_time}",
+        "creationDate": "${today_date}"
+    },
+    "new": {
+         "ownerReference_PartySiteID": "${Asset1_Owner_Ref}",
+        "referenceNumber": "${Asset_Ref_No}"
+    },
+    "modifiedBy": "Nisarg_Automation",
+    "modifiedFor": "For-Automation",
+    "serviceReqId": "INC_Automation",
+    "reasonCode": "User Error Correction"
+}

@@ -1,0 +1,137 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "2.7",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "TEST REQUIRED",
+            "clauseGroupText": "n",
+            "notes": "2.7.a Test",
+            "clauseText": ""
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "2.6",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "PASS",
+            "clauseGroupText": "m",
+            "notes": "",
+            "clauseText": "2.6"
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "2.4",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "NA",
+            "clauseGroupText": "l",
+            "notes": "",
+            "clauseText": ""
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "2.2",
+            "aeoDetails": "",
+            "hasMoreRows": false,
+            "verdict": "PASS",
+            "notes": "",
+            "clauseGroupText": "j",
+            "clauseText": "2.2"
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "2.1",
+            "hasMoreRows": true,
+            "aeoDetails": "",
+            "verdict": "PENDING FAIL",
+            "clauseGroupText": "i,k",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "2.1",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "SelectYesTo_13",
+                "responses": "No",
+                "displayName": "Select Yes to Pass AP clause 2.1",
+                "rowId": "20",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SelectYesTo_15",
+                "responses": "No",
+                "displayName": "Select Yes to Pass AP clause 2.1 and skip 2.2",
+                "rowId": "21",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SelectYesTo_17",
+                "responses": "No",
+                "displayName": "Select Yes to Pass AP clause 2.1 and skip 2.2 and 2.3",
+                "rowId": "22",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SelectYesTo_19",
+                "responses": "Yes",
+                "displayName": "Select Yes to Pass AP clause 2.1 and skip 2.3",
+                "rowId": "23",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SelectYesTo_18",
+                "responses": "Yes",
+                "displayName": "Select Yes to Turn off 2.3",
+                "rowId": "23",
+                "orderNum": "2",
+                "uom": "",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "23",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 4 - Clause Navigation",
+            "subGroupName": "Sub-Group 3"
+        },
+        "mode": "edit"
+    },
+    "user": "Nisarg_Automation"
+}

@@ -1,0 +1,72 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "projectDetails": [
+                    {
+                        "name": "projectNumber",
+                        "value": "${project_1}"
+                    }
+                ],
+                "hasQuestions": [],
+                "hasRecommendation": [],
+                "hasCertify": [
+                    {
+                        "attributes": [
+                            {
+                                "dataParamName": "issueDate",
+                                "value": "${today_date}",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "revisionDate",
+                                "value": "${future_date_1}",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "withdrawalDate",
+                                "value": "${future_date_2}",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "expiryDate",
+                                "value": "${future_date_3}",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certificationComment",
+                                "value": "The products covered are eligible for Certification under UL's Follow-up Services Program and parties meet all applicable requirements",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certifierEmployeeName",
+                                "value": "${Automation}",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certifierEmployeeNumber",
+                                "value": "${emp_no_1}",
+                                "uom": "N/A",
+                                "seq": ""
+                            }
+                        ],
+                        "relationshipType": "${certify}"
+                    }
+                ],
+                "issueDate":"${today_date}",
+                "revisionDate": "${future_date_1}",
+                "expiryDate": "${future_date_3}",
+                "withdrawalDate": "${future_date_2}",
+                "user": "${user_1}",
+                "certify": "${value_as_Y}",
+                "revisionNumber": "${value_as_0}"
+            }
+        ]
+    }
+}

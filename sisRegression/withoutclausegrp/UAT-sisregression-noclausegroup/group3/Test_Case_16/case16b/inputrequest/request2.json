@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "16",
+            "aeoDetails": "",
+            "clauseText": "",
+            "verdict": "PENDING NA",
+            "notes": "",
+            "hasMoreRows": true
+        }
+    ],
+    "evaluations": {
+        "clauseId": "16",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "TP1Attribute15_0",
+                "responses": "0",
+                "displayName": "TP1 Attribute 15",
+                "rowId": "2",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "2",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "3rd"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - No Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 16 - Integer Not Populated"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

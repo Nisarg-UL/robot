@@ -1,0 +1,68 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "21",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "7",
+                "responses": "1",
+                "uom": "B",
+                "displayName": "TP1 Attribute 28",
+                "paramName": "TP1Attribute28_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "7",
+                "responses": "1",
+                "uom": "C",
+                "displayName": "TP1 Attribute 29",
+                "paramName": "TP1Attribute29_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "7",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if values of 2 and 1.5 were respectively populated - Yes for Pass - No for Fail",
+                "paramName": "CheckToSee_3",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "7",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 21 - Integer and Decimal with Value function and 1 cardinality - Not Equals"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

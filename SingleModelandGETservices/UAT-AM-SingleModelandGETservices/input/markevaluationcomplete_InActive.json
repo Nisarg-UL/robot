@@ -1,0 +1,11 @@
+{
+    "completed": "N",
+    "certified": [],
+    "notCertified": [
+        {
+            "assessmentId": "${assessmentId}",
+            "nonComplianceReason": "For testing reason"
+        }
+    ],
+    "user": "Nisarg_Automation"
+}

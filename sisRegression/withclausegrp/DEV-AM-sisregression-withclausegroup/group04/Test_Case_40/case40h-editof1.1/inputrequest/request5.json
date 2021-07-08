@@ -1,0 +1,100 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "1.4b",
+            "hasMoreRows": true,
+            "aeoDetails": "",
+            "verdict": "PENDING FAIL",
+            "clauseGroupText": "h",
+            "notes": "",
+            "clauseText": ""
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "1.3c",
+            "aeoDetails": "",
+            "hasMoreRows": false,
+            "verdict": "PASS",
+            "notes": "",
+            "clauseGroupText": "g",
+            "clauseText": "1.3c"
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "1.2d",
+            "aeoDetails": "",
+            "hasMoreRows": false,
+            "verdict": "PASS",
+            "notes": "",
+            "clauseGroupText": "f",
+            "clauseText": "1.2d"
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "1.1a",
+            "aeoDetails": "",
+            "hasMoreRows": false,
+            "verdict": "PASS",
+            "notes": "",
+            "clauseGroupText": "e",
+            "clauseText": "1.1a"
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "1.4b",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "SelectYesTo_11",
+                "responses": "Yes",
+                "displayName": "Select Yes to Pass AP clause 1.4",
+                "rowId": "19",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SelectYesTo_10",
+                "responses": "Yes",
+                "displayName": "Select Yes to Pass RP for clause1.4",
+                "rowId": "19",
+                "orderNum": "2",
+                "uom": "",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "19",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 4 - Clause Navigation",
+            "subGroupName": "Sub-Group 2"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

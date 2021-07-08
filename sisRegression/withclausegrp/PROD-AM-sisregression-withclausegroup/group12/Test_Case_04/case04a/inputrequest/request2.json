@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "4",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "5",
+                "responses": "TP1A26-b",
+                "uom": "",
+                "displayName": "TP1 Attribute 26",
+                "paramName": "TP1Attribute26_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "5",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to ensure value was not TP1A26-a - Yes to Pass - No for Fail",
+                "paramName": "CheckToEnsure_3",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "5",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 12 - Data Linked Scenarios - Data Group",
+            "subGroupName": "LOV - Not Equals - Cardinality n"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "searchText": "${value_as_Test}",
+        "user": "${user_1}",
+        "offset": "${value_as_0}",
+        "rows": "${value_as_10}",
+        "orderBy": "+${modelName_key}",
+        "completed": "${completed_value}",
+        "accepted": "${accepted_value}",
+        "isPLAsset": "${isPLAsset_value}",
+        "modelNomenclature": "${modelNomenclature_1}",
+        "fromDate": "${today_date}",
+        "toDate": "${today_date}",
+        "fromCreatedDate": "${today_date}",
+        "toCreatedDate": "${today_date}",
+        "fromModifiedDate": "${today_date}",
+        "toModifiedDate": "${today_date}",
+        "searchParameters": {
+            "productType": {
+                "operator": "${exact_search_value}",
+                "value": "${product_type_1}"
+            },
+            "ownerReference_PartySiteID": {
+                "operator": "${exact_search_value}",
+                "value": "${Asset_Owner_Ref}"
+            },
+            "referenceNumber": {
+                "operator": "${exact_search_value}",
+                "value": "${PL_reference_number_1}"
+            },
+            "family_Series": {
+                "operator": "${exact_search_value}",
+                "value": "${family_series_1}-${current_time}"
+            },
+            "modelName": {
+                "operator": "${exact_search_value}",
+                "value": "${model_name_1}_${current_time}"
+            }
+        },
+        "productTypeList": [
+            {
+                "productType": "${product_type_1}"
+            }
+        ],
+        "ownerReferenceList": [
+            {
+                "ownerReference_PartySiteID": "${Asset_Owner_Ref}"
+            }
+        ],
+        "referenceNumberList": [
+            {
+                "referenceNumber": "${reference_number_1}"
+            }
+        ],
+        "family_SeriesList": [
+            {
+                "family_Series": "${family_series_1}-${current_time}"
+            }
+        ],
+        "statusList":[
+            {
+                "status": "${status_value}"
+            }
+        ],
+        "facet": [
+            {
+                "field": "${productType_key}"
+            },
+            {
+                "field": "${ownerReference_key}"
+            },
+            {
+                "field": "${referenceNumber_key}"
+            },
+            {
+                "field": "${family_Series_key}"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "7",
+            "aeoDetails": "",
+            "hasMoreRows": true,
+            "verdict": "",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "clauseId": "7",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "SelectYesTo_1",
+                "responses": "Yes",
+                "displayName": "Select Yes to Proceed to Alternate Evaluation Option. Make sure the AEO Details are viewable - Select No to end test with Not Applicable",
+                "rowId": "28",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "28",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "3rd"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - No Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 1",
+            "subGroupName": "Test Case 7 - Alternate Evaluation Option"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

@@ -1,0 +1,215 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "${asset_Id_Product2}",
+                "metadataId": "${Reg_prod2_metadataId}",
+                "status": "Active",
+                "ulAssetId": "${asset_Id_Product2}",
+                "assetVersion": "1.0",
+                "hierarchyId": "${regression_product_2_hierarchy_id}",
+                "hasEvaluation": "Yes",
+                "noEvalReqd": false,
+                "updatedOn": "",
+                "updatedBy": "",
+                "hierarchy": [
+                    {
+                        "name": "Product Type",
+                        "value": "Regression Test Product 2",
+                        "dataParamName": "attribProductType"
+                    }
+                ],
+                "taxonomy": [
+                    {
+                        "name": "Product Type",
+                        "value": "Regression Test Product 2",
+                        "dataParamName": "productType"
+                    },
+                    {
+                        "name": "Owner Reference (Party Site ID)",
+                        "value": "${Asset_Owner_Ref}",
+                        "dataParamName": "ownerReference_PartySiteID"
+                    },
+                    {
+                        "name": "Reference Number",
+                        "value": "${random_ref_number_1}",
+                        "dataParamName": "referenceNumber"
+                    },
+                    {
+                        "name": "Family/Series",
+                        "value": "Reg-Test",
+                        "dataParamName": "family_Series"
+                    },
+                    {
+                        "name": "Model Name",
+                        "value": "${model_name_2}",
+                        "dataParamName": "modelName"
+                    },
+                    {
+                        "name": "Creation Date",
+                        "value": "Replace Date",
+                        "dataParamName": "creationDate"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "dataParamName": "productType",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Regression Test Product 2"
+                    },
+                    {
+                        "dataParamName": "ownerReference_PartySiteID",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${Asset_Owner_Ref}"
+                    },
+                    {
+                        "dataParamName": "referenceNumber",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${random_ref_number_1}"
+                    },
+                    {
+                        "dataParamName": "family_Series",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Reg-Test"
+                    },
+                    {
+                        "dataParamName": "modelName",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${model_name_2}"
+                    },
+                    {
+                        "dataParamName": "creationDate",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "Replace Date"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute1",
+                        "uom": "giga watts",
+                        "value": "",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP2Attribute2",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP2Attribute3",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute3",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "2"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute3",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "3"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute4",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute4",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "2"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute4",
+                        "uom": "N/A",
+                        "value": "",
+                        "seq": "3"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute5",
+                        "uom": "A",
+                        "value": "abc",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP2Attribute6",
+                        "uom": "B",
+                        "value": "0",
+                        "seq": "",
+                        "defaultValue": "0"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute7",
+                        "uom": "C",
+                        "value": "0",
+                        "seq": "",
+                        "defaultValue": "0"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute8",
+                        "uom": "N/A",
+                        "value": "No",
+                        "seq": "",
+                        "defaultValue": "No"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute9",
+                        "uom": "N/A",
+                        "value": "1948-08-31",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP2Attribute10",
+                        "uom": "N/A",
+                        "value": "Liono",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP2Attribute11",
+                        "uom": "Dalmations",
+                        "value": "0",
+                        "seq": ""
+                    },
+                    {
+                        "dataParamName": "tP2Attribute12",
+                        "uom": "N/A",
+                        "value": "-9.5",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute13",
+                        "uom": "N/A",
+                        "value": "Yes",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "tP2Attribute14",
+                        "uom": "N/A",
+                        "value": "2021-12-11",
+                        "seq": "1"
+                    },
+                    {
+                        "dataParamName": "metadataId",
+                        "seq": "",
+                        "uom": "N/A",
+                        "value": "${Reg_prod2_metadataId}"
+                    }
+                ],
+                "hasComponents": [],
+                "hasCertificates": [],
+                "modify": true
+            }
+        ]
+    }
+}

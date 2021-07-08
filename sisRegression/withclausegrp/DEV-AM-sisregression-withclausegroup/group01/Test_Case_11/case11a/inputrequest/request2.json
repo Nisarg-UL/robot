@@ -1,0 +1,58 @@
+{
+    "results": [
+    ],
+    "evaluations": {
+        "clauseId": "11",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "YesToProceed_1",
+                "responses": "Yes",
+                "displayName": "Yes to proceed to Requirement Parameter Questions - No to end test with Not Applicable",
+                "rowId": "32",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "RPQuestion1_0",
+                "responses": "Yes",
+                "displayName": "RP Question 1 - Yes or No to continue to RP Question 2",
+                "rowId": "32",
+                "orderNum": "4",
+                "uom": "",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "32",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 1",
+            "subGroupName": "Test Case 11 - Multiple Requirement Parameter Questions"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

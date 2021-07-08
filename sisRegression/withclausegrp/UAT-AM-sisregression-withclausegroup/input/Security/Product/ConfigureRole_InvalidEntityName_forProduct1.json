@@ -1,0 +1,27 @@
+{
+    "data": {
+        "entity": "Product",
+        "entityName": "Abcde",
+        "tabName": "Details",
+        "user": "ManojAutomation",
+        "role": "Owner",
+        "attributes": [
+            {
+                "attributeName": "TP1 Attribute 6",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "TP1 Attribute 7",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "TP1 Attribute 8",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "TP1 Attribute 9",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

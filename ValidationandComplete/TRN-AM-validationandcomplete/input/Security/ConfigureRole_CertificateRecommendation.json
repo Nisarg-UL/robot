@@ -1,0 +1,27 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "${entity_name}",
+        "tabName": "${tab_name}",
+        "user": "${user}",
+        "role": "${role}",
+        "attributes": [
+            {
+                "attributeName": "Recommendation Status",
+                "readAccess": "${read_access}"
+            },
+            {
+                "attributeName": "Recommendation Comment",
+                "readAccess": "${read_access}"
+            },
+            {
+                "attributeName": "Reviewer Employee Name",
+                "readAccess": "${read_access}"
+            },
+            {
+                "attributeName": "Reviewer Employee Number",
+                "readAccess": "${read_access}"
+            }
+        ]
+    }
+}

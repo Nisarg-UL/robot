@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "20",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "21",
+                "responses": "1.5",
+                "uom": "",
+                "displayName": "TP1 Attribute 29",
+                "paramName": "TP1Attribute29_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "21",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if value 1.5 is populated - Yes for Pass - No for Fail",
+                "paramName": "CheckToSee_9",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "21",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 12 - Data Linked Scenarios - Data Group",
+            "subGroupName": "Decimal with Value function and 1 cardinality - Equals"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

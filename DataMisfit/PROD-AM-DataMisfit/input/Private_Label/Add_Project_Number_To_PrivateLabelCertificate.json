@@ -1,0 +1,68 @@
+{
+    "privateLabel": [
+        {
+            "privateLabelId": "${PrivateLabel_Id}",
+            "certify": "",
+            "issueDate": "Replace Date",
+            "revisionDate": "",
+            "revisionNumber": "1",
+            "expiryDate": "",
+            "withdrawalDate": "",
+            "user": "50696",
+            "projectDetails": [
+                {
+                    "name": "projectNumber",
+                    "value": "PL_Automation_Project"
+                }
+            ],
+            "hasQuestions": [],
+            "hasRecommendation": [],
+            "hasCertify": [
+                {
+                    "relationshipType": "Certify",
+                    "attributes": [
+                        {
+                            "uom": "N/A",
+                            "name": "issueDate",
+                            "dataParamName": "issueDate",
+                            "seq": "",
+                            "value": "Replace Date"
+                        },
+                        {
+                            "uom": "N/A",
+                            "name": "revisionDate",
+                            "dataParamName": "revisionDate",
+                            "seq": "",
+                            "value": ""
+                        },
+                        {
+                            "uom": "N/A",
+                            "name": "expiryDate",
+                            "dataParamName": "expiryDate",
+                            "seq": "",
+                            "value": ""
+                        },
+                        {
+                            "dataParamName": "Certification Comment",
+                            "value": "The Certificate is Certified by UL",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "certifierEmployeeName",
+                            "value": "Nisarg_Automation",
+                            "uom": "N/A",
+                            "seq": ""
+                        },
+                        {
+                            "dataParamName": "certifierEmployeeNumber",
+                            "value": "50696",
+                            "uom": "N/A",
+                            "seq": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

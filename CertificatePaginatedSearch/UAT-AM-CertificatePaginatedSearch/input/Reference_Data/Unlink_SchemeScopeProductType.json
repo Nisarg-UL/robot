@@ -1,0 +1,11 @@
+{
+    "data": {
+        "schemeScopeProductType": [],
+        "removed": [
+            {
+                "schemeScopeProductTypeId": "${RegProd1_schemeScopeProductTypeId}"
+            }
+        ],
+        "user": "Manoj_Automation"
+    }
+}

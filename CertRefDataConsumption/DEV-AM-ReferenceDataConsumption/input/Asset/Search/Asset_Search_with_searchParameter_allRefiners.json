@@ -1,0 +1,36 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "-${updatedOn_key}",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "",
+        "searchParameters": {
+            "${searchParameter_key}": {
+                "operator": "${operator_value}",
+                "value": "${searchParameter_value}"
+            }
+        },
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[],
+        "facet": [
+            {
+                "field": "${productType_key}"
+            },
+            {
+                "field": "${ownerReference_key}"
+            },
+            {
+                "field": "${referenceNumber_key}"
+            },
+            {
+                "field": "${family_Series_key}"
+            }
+        ]
+    }
+}

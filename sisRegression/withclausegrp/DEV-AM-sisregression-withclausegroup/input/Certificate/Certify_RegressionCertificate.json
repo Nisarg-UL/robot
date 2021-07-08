@@ -1,0 +1,72 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "projectDetails": [
+                    {
+                        "name": "projectNumber",
+                        "value": "Automation"
+                    }
+                ],
+                "hasQuestions": [],
+                "hasRecommendation": [],
+                "hasCertify": [
+                    {
+                        "attributes": [
+                            {
+                                "dataParamName": "issueDate",
+                                "value": "Replace Date",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "revisionDate",
+                                "value": "",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "withdrawalDate",
+                                "value": "",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "expiryDate",
+                                "value": "",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certificationComment",
+                                "value": "The products covered are eligible for Certification under UL's Follow-up Services Program and parties meet all applicable requirements",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certifierEmployeeName",
+                                "value": "Automation",
+                                "uom": "N/A",
+                                "seq": ""
+                            },
+                            {
+                                "dataParamName": "certifierEmployeeNumber",
+                                "value": 50696,
+                                "uom": "N/A",
+                                "seq": ""
+                            }
+                        ],
+                        "relationshipType": "Certify"
+                    }
+                ],
+                "issueDate":"Replace Date",
+                "revisionDate": "",
+                "expiryDate": "",
+                "withdrawalDate": "",
+                "user": "50696",
+                "certify": "Y",
+                "revisionNumber": "0"
+            }
+        ]
+    }
+}

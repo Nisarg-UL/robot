@@ -1,0 +1,49 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "completed": "",
+        "accepted": "",
+        "productTypeList": [
+            {
+                "productType": "${product_type_1}"
+            },
+            {
+                "productType": "${product_type_2}"
+            }
+        ],
+        "ownerReferenceList": [
+            {
+                "ownerReference_PartySiteID": "${Asset_Owner_Ref}"
+            },
+            {
+                "ownerReference_PartySiteID": "${Asset2_Owner_Ref}"
+            }
+        ],
+        "referenceNumberList": [
+            {
+                "referenceNumber": "${reference_number_1}"
+            },
+            {
+                "referenceNumber": "${reference_number_2}"
+            }
+        ],
+        "family_SeriesList": [
+            {
+                "family_Series": "${family_series_1}-${current_time}"
+            },
+            {
+                "family_Series": "${family_series_2}-${current_time}"
+            }
+        ],
+        "statusList":[
+            {
+                "status": "${status_value}"
+            },
+            {
+                "status": "${status_value}"
+            }
+        ]
+    }
+}

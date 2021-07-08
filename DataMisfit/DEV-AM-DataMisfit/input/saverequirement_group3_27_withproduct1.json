@@ -1,0 +1,66 @@
+{
+    "items":[
+        {
+            "assessmentId":"${assessmentId}",
+            "hierarchyId":"${standard_hierarchy_Id}",
+            "hierarchy":[
+                {
+                    "name":"Standard",
+                    "dataParamName":"standard",
+                    "value":"Validation"
+                },
+                {
+                    "name":"Standard Edition",
+                    "dataParamName":"standardEdition",
+                    "value": "3rd"
+                },
+                {
+                    "name":"Applicability",
+                    "dataParamName":"applicability",
+                    "value":"Regression Test - With Clause Groups"
+                },
+                {
+                    "name":"Standard Revision Date",
+                    "dataParamName":"revisionDate",
+                    "value":"2016-11-16"
+                }
+            ],
+            "requirements":{
+                "paramName":"requirements",
+                "items":[
+                    {
+                        "requirementName":"Group 3 - Data Linkage",
+                        "subGroup":{
+                            "paramName":"subrequirements",
+                            "items":[
+                                {
+                                    "subGroupName":"Test Case 27 - Integer Populated",
+                                    "items":[
+                                        {
+                                            "assessmentParamId":"",
+                                            "seqId":"",
+                                            "hasContext":[
+                                                {
+                                                    "assetId":"${asset_Id_Product1}",
+                                                    "assetAssetLinkSeqId":"",
+                                                    "contextDescription":"Automation_Product1_context"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "removed":[
+        {
+            "assessmentParamId":"",
+            "reason":""
+        }
+    ],
+    "user":"Nisarg_Automation"
+}

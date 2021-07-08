@@ -1,0 +1,23 @@
+{
+    "parties": [
+        {
+            "ipPartyIdentifier": "",
+            "partySiteNumber": "1606567",
+            "accountNumber": "1542259",
+            "relationshipType": "Brand Owner"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "partySiteNumber": "3245678",
+            "accountNumber": "9568758",
+            "relationshipType": "Applicant"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "accountNumber": "1234",
+            "partySiteNumber": "7890",
+            "relationshipType": "Owner Reference"
+        }
+    ],
+    "user": "50696"
+}

@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "clauseId": "10",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "uom": "",
+                "orderNum": "0",
+                "rowId": "29",
+                "displayName": "TP1 Attribute 7",
+                "paramName": "TP1Attribute7",
+                "responses": "B",
+                "paramType": "applicability",
+                "guidanceNote": "GN on TP1 Attribute 7 - row 29."
+            },
+            {
+                "uom": "",
+                "orderNum": "2",
+                "rowId": "29",
+                "displayName": "Check to ensure value was B - Yes to Pass - No for Fail",
+                "paramName": "CheckToEnsure_1",
+                "responses": "Yes",
+                "paramType": "requirement",
+                "guidanceNote": "GN for RP - row 29."
+            }
+        ],
+        "rowId": "29",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 8 - Guidance Notes",
+            "subGroupName": "RG8-RsG10"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

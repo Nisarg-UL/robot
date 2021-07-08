@@ -1,0 +1,13 @@
+{
+    "completed": "N",
+    "certified": [
+        {
+            "assessmentId": "${assessmentId}"
+        },
+        {
+            "assessmentId": "${assessmentId2}"
+        }
+    ],
+    "notCertified": [],
+    "user": "Nisarg_Automation"
+}

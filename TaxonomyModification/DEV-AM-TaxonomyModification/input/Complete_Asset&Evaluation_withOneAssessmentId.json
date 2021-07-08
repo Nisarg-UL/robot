@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "assessmentId": "${assmentId}",
+            "assessmentStatus": "complete",
+            "certificationStatus": "",
+            "nonComplianceReason": ""
+        }
+    ],
+    "user": "Nisarg_Automation"
+}

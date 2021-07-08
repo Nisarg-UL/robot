@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "28",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "19",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "TP1 Attribute 11",
+                "paramName": "TP1Attribute11_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "19",
+                "responses": "No",
+                "uom": "",
+                "displayName": "Data Linked to Yes - Select Yes to AEO",
+                "paramName": "DataLinkedTo_0",
+                "paramType": "applicability"
+            }
+        ],
+        "rowId": "19",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 28 - Boolean Populated"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

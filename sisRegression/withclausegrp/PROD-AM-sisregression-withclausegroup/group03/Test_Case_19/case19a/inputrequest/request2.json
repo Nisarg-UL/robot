@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "19",
+            "hasMoreRows": true,
+            "aeoDetails": "",
+            "verdict": "PENDING FAIL",
+            "clauseGroupText": "d",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "19",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "5",
+                "responses": "5",
+                "uom": "",
+                "displayName": "TP1 Attribute 33",
+                "paramName": "TP1Attribute33_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "5",
+                "responses": "0.9",
+                "uom": "",
+                "displayName": "TP1 Attribute 34",
+                "paramName": "TP1Attribute34_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "5",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if the values of 5 and 3 were respectively populated - Yes for Pass - No to Fail",
+                "paramName": "CheckToSee_2",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "5",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 19 - Integer and Decimal with Value function and n Cardinality"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

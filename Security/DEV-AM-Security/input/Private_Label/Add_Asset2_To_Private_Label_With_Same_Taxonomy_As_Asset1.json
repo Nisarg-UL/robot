@@ -1,0 +1,51 @@
+{
+    "data": {
+        "assets": [
+            {
+                "assetId": "${asset_Id_Product1}",
+                "taxonomy": [
+                    {
+                        "name": "Product Type",
+                        "value": "Regression Test Product 1",
+                        "dataParamName": "productType"
+                    },
+                    {
+                        "name": "Owner Reference (Party Site ID)",
+                        "value": "${Asset_Owner_Ref}",
+                        "dataParamName": "ownerReference_PartySiteID"
+                    },
+                    {
+                        "name": "Reference Number",
+                        "value": "PL_DEMOFILE01",
+                        "dataParamName": "referenceNumber"
+                    },
+                    {
+                        "name": "Family / Series",
+                        "value": "Reg-Test",
+                        "dataParamName": "family_Series"
+                    },
+                    {
+                        "name": "Model Name",
+                        "value": "${pl_model_name_1}_${current_time}",
+                        "dataParamName": "modelName"
+                    },
+                    {
+                        "name": "Creation Date",
+                        "value": "Replace Date",
+                        "dataParamName": "creationDate"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "name": "",
+                        "value": "",
+                        "uom": "",
+                        "seq": "",
+                        "dataParamName": ""
+                    }
+                ]
+            }
+        ],
+        "user": "50696"
+    }
+}

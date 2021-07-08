@@ -1,0 +1,69 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "attributes": [],
+                "hierarchy": [
+                    {
+                        "name": "Certificate Type",
+                        "dataParamName": "attribCertificateType",
+                        "value": "Regression3 Scheme"
+                    }
+                ],
+                "hasTransaction": [
+                    {
+                        "hasAssets": [
+                            ${has_Assets}
+                        ],
+                        "transactionId": "${Transaction_Id}",
+                        "certificateId": "${Certificate_Id}",
+                        "hasEvaluations": [
+                            ${has_Evaluations}
+                        ],
+                        "attributes": [],
+                        "hasParties": [
+                            {
+                                "partySiteNumber": "1606567",
+                                "accountNumber": "1542259",
+                                "relationshipType": "Brand Name Owner",
+                                "ipPartyIdentifier": ""
+                            },
+                            {
+                                "relationshipType": "Importer",
+                                "accountNumber": "1234",
+                                "partySiteNumber": "7890",
+                                "ipPartyIdentifier": ""
+                            },
+                            {
+                                "partySiteNumber": "551380",
+                                "accountNumber": "249219",
+                                "relationshipType": "Production Site",
+                                "ipPartyIdentifier": ""
+                            }
+                        ],
+                        "supplyChainId": ""
+                    }
+                ],
+                "expiryDate": "",
+                "withdrawalDate": "",
+                "hierarchyId": "${certificate_hierarchy_Id}",
+                "hasQuestions": [],
+                "hasRecommendation": [],
+                "hasCertify": [],
+                "hasError": [],
+                "issueDate": "",
+                "revisionDate": "",
+                "ownerReference": "${Asset_Owner_Ref}",
+                "user": "50696",
+                "updatedBy": "",
+                "updatedOn": "",
+                "accepted": "N",
+                "certify": "N",
+                "issuingBody": "USA",
+                "mark": "Listed",
+                "certificateName": "Regression3-US001-1",
+                "certificateType": "Regression3 Scheme"
+            }
+        ]
+    }
+}

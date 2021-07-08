@@ -1,0 +1,58 @@
+{
+    "results": [
+    ],
+    "evaluations": {
+        "clauseId": "a-less100",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "EnterANumber_0",
+                "responses": "-10",
+                "displayName": "Enter a number between -100 and 0",
+                "rowId": "2",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "applicability"
+            },
+            {
+                "paramName": "YouEnteredA_0",
+                "responses": "No",
+                "displayName": "You entered a number -100 or less - Yes to end test with Pass - No to end test with Fail",
+                "rowId": "2",
+                "orderNum": "4",
+                "uom": "",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "2",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 10 - Non-Data Linked Scenarios",
+            "subGroupName": "Test Case 02 - Selecting Number within Ranges, Negative"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

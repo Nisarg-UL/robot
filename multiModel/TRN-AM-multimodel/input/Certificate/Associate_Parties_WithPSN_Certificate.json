@@ -1,0 +1,29 @@
+{
+    "parties": [
+        {
+            "ipPartyIdentifier": "",
+            "accountNumber": "10042019",
+            "partySiteNumber": "10042019",
+            "relationshipType": "Brand Owner"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "accountNumber": "10042019",
+            "partySiteNumber": "10042019",
+            "relationshipType": "Production Site"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "accountNumber": "11042019",
+            "partySiteNumber": "11042019",
+            "relationshipType": "Applicant"
+        },
+        {
+            "ipPartyIdentifier": "",
+            "accountNumber": "11042019",
+            "partySiteNumber": "11042019",
+            "relationshipType": "Local Representative"
+        }
+    ],
+"user": "50696"
+}

@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "1",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "2",
+                "responses": "A",
+                "uom": "",
+                "displayName": "TP1 Attribute 6",
+                "paramName": "TP1Attribute6_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "2",
+                "responses": "1.1",
+                "uom": "",
+                "displayName": "TP1 Attribute 9",
+                "paramName": "TP1Attribute9_0",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "2",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 13 - Data Linked Scenarios - Multiple Applicability and Requirements",
+            "subGroupName": "Consecutive Data Linkage"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

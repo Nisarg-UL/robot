@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "assessmentId": "${assessmentId}",
+      "assessmentStatus": "complete",
+      "certificationStatus": "Certified",
+      "nonComplianceReason": ""
+    }
+  ],
+  "user": "Manoj_Automation"
+}
+
+

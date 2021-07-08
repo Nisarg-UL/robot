@@ -1,0 +1,33 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "orderBy": "-${updatedOn_key}",
+        "completed": "",
+        "accepted": "",
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [
+            {
+                "family_Series": "${family_series_1}-${current_time}"
+            }
+        ],
+        "statusList":[],
+        "facet": [
+            {
+                "field": "${productType_key}"
+            },
+            {
+                "field": "${ownerReference_key}"
+            },
+            {
+                "field": "${referenceNumber_key}"
+            },
+            {
+                "field": "${family_Series_key}"
+            }
+        ]
+    }
+}

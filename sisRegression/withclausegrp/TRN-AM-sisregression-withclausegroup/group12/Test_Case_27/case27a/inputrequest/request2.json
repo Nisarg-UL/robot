@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "27",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "28",
+                "responses": "2015-10-05",
+                "uom": "",
+                "displayName": "TP1 Attribute 44",
+                "paramName": "TP1Attribute44_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "28",
+                "responses": "Yes",
+                "uom": "",
+                "displayName": "Check to see if value 1976-01-01 is not populated - Yes for Pass - No for Fail",
+                "paramName": "CheckToSee_13",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "28",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 12 - Data Linked Scenarios - Data Group",
+            "subGroupName": "Date with Value function and 1 cardinality - Not Equals"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

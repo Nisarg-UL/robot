@@ -1,0 +1,72 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "attributes": [],
+                "hierarchy": [
+                    {
+                        "name": "Certificate Type",
+                        "dataParamName": "attribCertificateType",
+                        "value": "Regression2 Scheme"
+                    }
+                ],
+                "hasTransaction": [
+                    {
+                        "hasAssets": [
+                            ${has_Assets}
+                        ],
+                        "transactionId": "${Transaction_Id}",
+                        "certificateId": "${Certificate_Id}",
+                        "hasEvaluations": [
+                            ${has_Evaluations}
+                        ],
+                        "attributes": [],
+                        "hasParties": [
+                            {
+                                "accountNumber": "1542345",
+                                "partySiteNumber": "1789567",
+                                "relationshipType": "Brand Owner"
+                            },
+                            {
+                                "accountNumber": "55555",
+                                "partySiteNumber": "986868",
+                                "relationshipType": "Production Site"
+                            },
+                            {
+                                "accountNumber": "888888",
+                                "partySiteNumber": "8787885",
+                                "relationshipType": "Applicant"
+                            },
+                            {
+                                "accountNumber": "351328",
+                                "partySiteNumber": "2356898",
+                                "relationshipType": "Local Representative"
+                            }
+                        ],
+                        "supplyChainId": ""
+                    }
+                ],
+                "expiryDate": "",
+                "withdrawalDate": "",
+                "hierarchyId": "${certificate_hierarchy_Id}",
+                "hasQuestions": [],
+                "hasRecommendation": [],
+                "hasCertify": [],
+                "hasError": [],
+                "issueDate": "",
+                "revisionDate": "",
+                "ownerReference": "${Asset_Owner_Ref}",
+                "user": "50696",
+                "updatedBy": "",
+                "updatedOn": "",
+                "accepted": "N",
+                "certify": "N",
+                "issuingBody": "USA",
+                "mark": "Listed",
+                "certificateName": "Regression2-US001-1",
+                "certificateType": "Regression2 Scheme",
+                "revisionNumber": "0"
+            }
+        ]
+    }
+}

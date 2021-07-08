@@ -1,0 +1,8 @@
+{
+  "data": {
+    "user": "Manoj_Automation",
+    "referenceNumber": "${random_ref_number_1}",
+    "referenceNoChangeFlag": "N",
+    "taxonomy": []
+ }
+}

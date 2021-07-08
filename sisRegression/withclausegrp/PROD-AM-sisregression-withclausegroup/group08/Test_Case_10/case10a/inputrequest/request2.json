@@ -1,0 +1,69 @@
+{
+    "results": [],
+    "evaluations": {
+        "clauseId": "3",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "AP1_0",
+                "responses": "No",
+                "displayName": "AP1",
+                "rowId": "10",
+                "orderNum": "0",
+                "uom": "",
+                "guidanceNote": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "AP4_0",
+                "responses": "15",
+                "displayName": "AP4",
+                "rowId": "11",
+                "orderNum": "1",
+                "uom": "",
+                "guidanceNote": "GN on AP4 ranged - row 11.",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "RP1_0",
+                "responses": "Yes",
+                "displayName": "RP1",
+                "rowId": "11",
+                "orderNum": "2",
+                "uom": "",
+                "guidanceNote": "GN on RP1 - row 11",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "10",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 8 - Guidance Notes",
+            "subGroupName": "RG8-RsG3"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

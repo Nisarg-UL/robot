@@ -1,0 +1,14 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "orderBy": "-${updatedOn_key}",
+        "fromModifiedDate": {
+            "fromDateValue": "${fromDate_value}",
+            "operator": "${fromDate_operator}"
+        },
+        "toModifiedDate": {
+            "toDateValue": "${toDate_value}",
+            "operator": "${toDate_operator}"
+        }
+    }
+}

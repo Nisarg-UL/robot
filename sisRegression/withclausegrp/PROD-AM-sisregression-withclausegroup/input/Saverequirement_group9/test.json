@@ -1,0 +1,46 @@
+{
+    "apiversion": "<version>",
+    "code": 200,
+    "status": "OK",
+    "message": "OK",
+    "data": {
+        "items": [
+            {
+                "requirementGroup": "<Requirement Group>",
+                "assetAssmntClauseId": "<assetAssmntClauseId>",
+                "assetAssmntParamId": "<assetAssmntParamId>",
+                "requirementSubGroup": "<Requrement SubGroup>",
+                "clauseId": "<clauseId>",
+                "verdict": "<verdict>",
+                "overriddenVerdict": "<Overridden Verdict>",
+                "remarks": {
+                    "relatedInfo": [],
+                    "comments": "",
+                    "reasonCode": "",
+                    "user": "user"
+                },
+                "hasContext": [
+                    {
+                        "taxonomy": [
+                            {
+                                "name": "",
+                                "dataParamName": "",
+                                "value": ""
+                            }
+                        ],
+                        "contextDescription": "",
+                        "hasAssetLinkages": [
+                            {
+                                "name": "",
+                                "value": "",
+                                "uom": "",
+                                "seq": "",
+                                "dataParamName": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

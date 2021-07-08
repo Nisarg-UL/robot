@@ -1,0 +1,202 @@
+{
+    "data": {
+        "certificate": [
+            {
+                "ownerReference": "${Asset_Owner_Ref}",
+                "issuingBody": "USA",
+                "hasTransaction": [
+                    {
+                        "hasAssets": [
+                            {
+                                "assetId": "${asset_Id_Product1}",
+                                "ulAssetId": "${ul_asset_Id}",
+                                "productType": "Regression Test Product 1"
+                            }
+                        ],
+                        "transactionId": "${Transaction_Id}",
+                        "certificateId": "${Certificate_Id}",
+                        "hasEvaluations": [],
+                        "attributes": [],
+                        "hasParties": [],
+                        "supplyChainId": ""
+                    },
+                    {
+                        "hasAssets": [
+                            {
+                                "assetId": "${asset_Id_Product12}",
+                                "ulAssetId": "${ul_asset_Id_2}",
+                                "productType": "Regression Test Product 1"
+                            }
+                        ],
+                        "transactionId": "",
+                        "certificateId": "",
+                        "hasEvaluations": [
+                        ],
+                        "attributes": [],
+                        "hasParties": [],
+                        "supplyChainId": ""
+                    }
+                ],
+                "hierarchyId": "${certificate_hierarchy_Id}",
+                "certificateName": "Regression-US001-1",
+                "issueDate": "",
+                "mark": "Listed",
+                "revisionDate": "",
+                "expiryDate": "",
+                "certify": "N",
+                "withdrawalDate": "",
+                "certificateType": "Regression Scheme",
+                "hasCertify": [],
+                "updatedBy": "50696",
+                "hasRecommendation": [],
+                "accepted": "N",
+                "hierarchy": [
+                    {
+                        "name": "Certificate Type",
+                        "dataParamName": "attribCertificateType",
+                        "value": "Regression Scheme"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "uom": "N/A",
+                        "name": "certificateType",
+                        "dataParamName": "certificateType",
+                        "seq": "",
+                        "value": "Regression Scheme"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "issuingBody",
+                        "dataParamName": "issuingBody",
+                        "seq": "",
+                        "value": "USA"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "mark",
+                        "dataParamName": "mark",
+                        "seq": "",
+                        "value": "Listed"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "certificateName",
+                        "dataParamName": "certificateName",
+                        "seq": "",
+                        "value": "Regression-US001-1"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "ownerReference",
+                        "dataParamName": "ownerReference",
+                        "seq": "",
+                        "value": "${Asset_Owner_Ref}"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "certificationSchemeOwner",
+                        "dataParamName": "certificationSchemeOwner",
+                        "seq": "",
+                        "value": "UL LLC"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "modelNumbers",
+                        "dataParamName": "modelNumbers",
+                        "seq": "1",
+                        "value": "Certificate_Automation"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "certificationSchemeProductType",
+                        "dataParamName": "certificationSchemeProductType",
+                        "seq": "1",
+                        "value": "Regression Test Product 1"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "certificationSchemeProductTypeCode",
+                        "dataParamName": "certificationSchemeProductTypeCode",
+                        "seq": "1",
+                        "value": "007"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "standardNumber",
+                        "dataParamName": "standardNumber",
+                        "seq": "1",
+                        "value": "Validation"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "standardCode",
+                        "dataParamName": "standardCode",
+                        "seq": "1",
+                        "value": "3rd"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "cCN",
+                        "dataParamName": "cCN",
+                        "seq": "",
+                        "value": "QMFZ"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "complementaryCCN",
+                        "dataParamName": "complementaryCCN",
+                        "seq": "",
+                        "value": "QMFZ"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "footnoteSymbol",
+                        "dataParamName": "footnoteSymbol",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "testDate",
+                        "dataParamName": "testDate",
+                        "seq": "",
+                        "value": "Replace Date"
+                    },
+                    {
+                        "uom": "",
+                        "name": "metadataId",
+                        "dataParamName": "metadataId",
+                        "seq": "",
+                        "value": "${certificate_metadataId}"
+                    },
+
+                    {
+                        "uom": "N/A",
+                        "name": "electricalEfficiencyRated",
+                        "dataParamName": "electricalEfficiencyRated",
+                        "seq": "1",
+                        "value": "Yes"
+                    },
+                    {
+                        "uom": "percent",
+                        "name": "energyEfficiencyRating",
+                        "dataParamName": "energyEfficiencyRating",
+                        "seq": "1",
+                        "value": "0.1"
+                    },
+                    {
+                        "dataParamName": "revisionNumber",
+                        "value": "0",
+                        "uom": "N/A",
+                        "seq": ""
+                    }
+                ],
+                "updatedOn": "",
+                "hasQuestions": [],
+                "user": "50696",
+                "revisionNumber": "0"
+            }
+        ]
+    }
+}

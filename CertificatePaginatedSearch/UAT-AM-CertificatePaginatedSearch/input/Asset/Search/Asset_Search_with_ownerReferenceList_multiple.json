@@ -1,0 +1,21 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "completed": "",
+        "accepted": "",
+        "productTypeList": [],
+        "ownerReferenceList": [
+            {
+                "ownerReference_PartySiteID": "${Asset_Owner_Ref}"
+            },
+            {
+                "ownerReference_PartySiteID": "${Asset2_Owner_Ref}"
+            }
+        ],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[]
+    }
+}

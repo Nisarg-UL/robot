@@ -1,0 +1,114 @@
+{
+    "data": {
+        "searchText": "${value_as_Test}",
+        "user": "${user_1}",
+        "offset": "${value_as_0}",
+        "rows": "${value_as_10}",
+        "orderBy": "${updatedOn_key}",
+        "privateLabel": "${value_as_N}",
+        "latestCompletedCertificate": "${value_as_N}",
+        "fromModifiedDate": {
+            "fromDateValue": "${today_date} ${time_00}",
+            "operator": "${greater_than_or_equal}"
+        },
+        "toModifiedDate": {
+            "toDateValue": "${today_date}",
+            "operator": "${less_than_or_equal}"
+        },
+        "fromIssueDate": "${today_date}",
+        "toIssueDate": "${today_date}",
+        "fromExpiryDate": "${future_date_3}",
+        "toExpiryDate": "${future_date_3}",
+        "fromWithdrawalDate": "${future_date_2}",
+        "toWithdrawalDate": "${future_date_2}",
+        "searchParameters": {
+            "productType": {
+                "operator": "${exact_search_value}",
+                "value": "${product_type_1}"
+            },
+            "ownerReference": {
+                "operator": "${exact_search_value}",
+                "value": "${Cert_Owner_Ref}"
+            },
+            "issuingBody": {
+                "operator": "${exact_search_value}",
+                "value": "${issuing_body_1}"
+            },
+            "certificateType": {
+                "operator": "${exact_search_value}",
+                "value": "${certificate_type_1}"
+            },
+            "mark": {
+                "operator": "${exact_search_value}",
+                "value": "${mark_1}"
+            },
+            "certificateName": {
+                "operator": "${exact_search_value}",
+                "value": "${certificate_name_1}"
+            }
+        },
+        "certificateTypeList": [
+            {
+                "certificateType": "${certificate_type_1}"
+            }
+        ],
+        "ownerReferenceList": [
+            {
+                "ownerReference": "${Cert_Owner_Ref}"
+            }
+        ],
+        "issuingBodyList": [
+            {
+                "issuingBody": "${issuing_body_1}"
+            }
+        ],
+        "markList": [
+            {
+                "mark": "${mark_1}"
+            }
+        ],
+        "statusList": [
+            {
+                "status": "${status_value}"
+            }
+        ],
+        "ccnList": [
+            {
+                "ccn": "${ccn_2}"
+            }
+        ],
+        "issueDateList": [
+            {
+                "issueDate": "${today_date}"
+            }
+        ],
+        "partiesRelationshipTypeList": [
+            {
+                "partiesRelationshipType": "${party_brand_owner}"
+            }
+        ],
+        "facet": [
+            {
+                "field": "${cert_ownerReference_key}"
+            },
+            {
+                "field": "${issuingBody_key}"
+            },
+            {
+                "field": "${certificateType_key}"
+            },
+            {
+                "field": "${mark_key}"
+            },
+            {
+                "field": "${status_key}"
+            },
+            {
+                "field": "${CCN_s_key}"
+            },
+            {
+                "field": "${issueDate_key}"
+            }
+        ]
+    }
+}

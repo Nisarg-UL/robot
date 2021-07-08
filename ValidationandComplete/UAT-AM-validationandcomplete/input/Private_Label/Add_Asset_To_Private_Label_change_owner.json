@@ -1,0 +1,44 @@
+{
+    "assetId": "${asset_Id_Product1}",
+    "taxonomy": [
+        {
+            "name": "Product Type",
+            "value": "Regression Test Product 1",
+            "dataParamName": "productType"
+        },
+        {
+            "name": "Owner Reference (Party Site ID)",
+            "value": "12345678",
+            "dataParamName": "ownerReference_PartySiteID"
+        },
+        {
+            "name": "Reference Number",
+            "value": "DEMOFILE01",
+            "dataParamName": "referenceNumber"
+        },
+        {
+            "name": "Family / Series",
+            "value": "Reg-Test",
+            "dataParamName": "family_Series"
+        },
+        {
+            "name": "Model Name",
+            "value": "Regression_Test_Model_1",
+            "dataParamName": "modelName"
+        },
+        {
+            "name": "Creation Date",
+            "value": "Replace Date",
+            "dataParamName": "creationDate"
+        }
+    ],
+    "attributes": [
+        {
+            "name": "",
+            "value": "",
+            "uom": "",
+            "seq": "",
+            "dataParamName": ""
+        }
+    ]
+}

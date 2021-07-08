@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ae35e52-660e-4e16-bc8b-200fe7ab625f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TRN-AM-sisregression-withclausegroup" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="ApiFunctions.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/ApiFunctions.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1640">
+              <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#356#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1a.robot" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/group01/Test_Case_01/case1a/tests/test1a.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="879">
+              <caret line="69" column="49" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>129</find>
+      <find>130</find>
+      <find>131</find>
+      <find>132</find>
+      <find>133</find>
+      <find>134</find>
+      <find>135</find>
+      <find>136r</find>
+      <find>136</find>
+      <find>137</find>
+      <find>138</find>
+      <find>139</find>
+      <find>140</find>
+      <find>141</find>
+      <find>142</find>
+      <find>143</find>
+      <find>144</find>
+      <find>145</find>
+      <find>146</find>
+      <find>147</find>
+      <find>148</find>
+      <find>149</find>
+      <find>150</find>
+      <find>152</find>
+      <find>151</find>
+      <find>current</find>
+      <find>assessment_param_id</find>
+      <find>transactionId</find>
+      <find>transaction</find>
+      <find>standard a</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>126</replace>
+      <replace>127</replace>
+      <replace>128</replace>
+      <replace>129</replace>
+      <replace>130</replace>
+      <replace>131</replace>
+      <replace>132</replace>
+      <replace>133</replace>
+      <replace>134</replace>
+      <replace>135</replace>
+      <replace>136r</replace>
+      <replace>136</replace>
+      <replace>137</replace>
+      <replace>138</replace>
+      <replace>139</replace>
+      <replace>140</replace>
+      <replace>141</replace>
+      <replace>142</replace>
+      <replace>143</replace>
+      <replace>144</replace>
+      <replace>145</replace>
+      <replace>146</replace>
+      <replace>147</replace>
+      <replace>148</replace>
+      <replace>149</replace>
+      <replace>150</replace>
+      <replace>151</replace>
+      <replace>153</replace>
+      <replace>152</replace>
+      <replace>Notcurrent</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_123</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_124</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_125</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_126</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_127</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_128</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_129</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_130</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_131</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_132</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_133</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_134</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_135</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_136</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_137</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_138</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_139</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_140</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_141</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_142</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_143</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_144</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_145</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_146</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_147</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_148</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_149</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_150</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_151</dir>
+      <dir>C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_152</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/group09/Test_Case_134/case133a/tests/test133a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_135/case135a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_135/case135a/tests/test135a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_136/case136a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_136/case136a/tests/test136a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_137/case137a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_137/case137a/tests/test137a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_138/case138a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_138/case138a/tests/test138a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_139/case139a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_139/case139a/tests/test139a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_140/case139a/tests/test139a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_140/case140a/tests/test140a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_140/case140a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_141/case141a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_141/case141a/tests/test141a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_142/case142a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_142/case142a/tests/test142a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_143/case143a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_143/case143a/tests/test143a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_144/case144a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_144/case144a/tests/test144a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_145/case144a/tests/test144a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_145/case145a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_145/case145a/tests/test145a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_146/case145a/tests/test145a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_146/case146a/tests/test146a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_146/case146a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_147/case146a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_147/case146a/tests/test146a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_148/case148a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_148/case148a/tests/test148a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_149/case149a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_149/case149a/tests/test149a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_150/case150a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_150/case150a/tests/test150a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_151/case151a/tests/test151a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_151/case151a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_152/case152a/tests/test152a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_152/case152a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_08/case8a/tests/test08a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_28/case28a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_28/case28a/tests/test28a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_23/case23a/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_23/case23a/tests/test23a.robot" />
+        <option value="$PROJECT_DIR$/group09/Test_Case_01/case1a/tests/test01a.robot" />
+        <option value="$PROJECT_DIR$/group04/Test_Case_40/case40n/inputrequest/request2.json" />
+        <option value="$PROJECT_DIR$/group04/Test_Case_40/case40n/inputrequest/request1.json" />
+        <option value="$PROJECT_DIR$/input/Saverequirement_group9/test.json" />
+        <option value="$PROJECT_DIR$/resource/ApiFunctions.robot" />
+        <option value="$PROJECT_DIR$/group01/Test_Case_01/case1a/tests/test1a.robot" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3512" />
+    <option name="y" value="-179" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PROD-AM-sisregression-withclausegroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROD-AM-sisregression-withclausegroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09" />
+      <recent name="C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_105" />
+      <recent name="C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_75\case74a\tests" />
+      <recent name="C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_37" />
+      <recent name="C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group09\Test_Case_27\case27a\inputrequest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\input\Saverequirement_group9" />
+      <recent name="C:\Users\50696\OneDrive - Underwriters Laboratories\InformationPlatformTests\robot\sisRegression\withclausegrp\DEV-AM-sisregression-withclausegroup\group08" />
+      <recent name="C:\Users\81349\Desktop\R14\DEV-AM-sisregression-withclausegroup\group03\Test_Case_28\case28b\tests" />
+      <recent name="C:\Users\81349\Desktop\R14\DEV-AM-sisregression-withclausegroup\group03\Test_Case_28\case28c\tests" />
+      <recent name="C:\Users\81349\Desktop\Asset Modularization\TRN-AM-sisregression-withclausegroup\group1\Test_Case_01\case1a" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="UAT-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="UAT-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="UAT-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="INFRADEV-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="TRN-AM-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="AM-TRN-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="TRN-AM-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="AL-DEV-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="INFRADEV-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="DEV-AM-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="UAT-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="INFRADEV-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="TRN-AM-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="DEV-AM-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="AM-TRN-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="DEV-AM-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="AL-DEV-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="AM-TRN-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="AL-DEV-sisregression-withclausegroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae35e52-660e-4e16-bc8b-200fe7ab625f" name="Default" comment="" />
+      <created>1492613695228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492613695228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3512" y="-179" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12291667" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25553662" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="JSON Viewer" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Data View" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_139/case139a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_140/case140a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_140/case140a/tests/test140a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_141/case141a/tests/test141a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_141/case141a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_142/case142a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_142/case142a/tests/test142a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_143/case143a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_143/case143a/tests/test143a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_144/case144a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_144/case144a/tests/test144a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_145/case145a/tests/test145a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_145/case145a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_146/case146a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_146/case146a/tests/test146a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_147/case147a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_147/case147a/tests/test147a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_148/case148a/tests/test148a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_148/case148a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_149/case149a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_149/case149a/tests/test149a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_150/case150a/tests/test150a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_150/case150a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_151/case151a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_151/case151a/tests/test151a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_152/case152a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_152/case152a/tests/test152a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_08/case8a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_07/case7a/tests/test07a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_09/case9a/tests/test09a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_08/case8a/tests/test08a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_28/case28a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_28/case28a/tests/test28a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_23/case23a/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_23/case23a/tests/test23a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Saverequirement_group9/saverequirement_group9_002.json" />
+    <entry file="file://$PROJECT_DIR$/input/Saverequirement_group9/saverequirement_group9_001.json" />
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_02/case2a/tests/test02a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="69" column="49" lean-forward="true" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_30/case30a/tests/test30a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_83/case83a/tests/test83a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1337" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_84/case84a/tests/test84a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1337" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/Linkage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/JParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4180">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group07/Test_Case_06/case6a/tests/test06a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group04/Test_Case_40/case40n/inputrequest/request2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group04/Test_Case_40/case40n/inputrequest/request1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group04/Test_Case_40/case40n/tests/test40n.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Saverequirement_group9/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group09/Test_Case_01/case1a/tests/test01a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/ApiFunctions.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group01/Test_Case_01/case1a/tests/test1a.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="69" column="49" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

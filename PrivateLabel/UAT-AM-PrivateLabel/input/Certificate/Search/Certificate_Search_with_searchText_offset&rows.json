@@ -1,0 +1,9 @@
+{
+    "data": {
+        "searchText": "${value_as_Regression}",
+        "user": "${user_1}",
+        "offset": "${offset_value}",
+        "rows": "${rows_value}",
+        "orderBy": "-${updatedOn_key}"
+    }
+}

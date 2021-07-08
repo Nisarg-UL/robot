@@ -1,0 +1,263 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "",
+                "ulAssetId": "",
+                "collectionId": "",
+                "user": "Manoj_Automation",
+                "hierarchy": [
+                    {
+                        "name": "Product Type",
+                        "dataParamName": "attribProductType",
+                        "value": "Appliance Controls"
+                    }
+                ],
+                "taxonomy": [
+                    {
+                        "name": "Product Type",
+                        "value": "Appliance Controls",
+                        "dataParamName": "productType"
+                    },
+                    {
+                        "name": "Owner Reference (Party Site ID)",
+                        "value": "Replace Owner",
+                        "dataParamName": "ownerReference_PartySiteID"
+                    },
+                    {
+                        "name": "Reference Number",
+                        "value": "DEMOFILE01",
+                        "dataParamName": "referenceNumber"
+                    },
+                    {
+                        "name": "Family / Series",
+                        "value": "Reg-Test",
+                        "dataParamName": "family_Series"
+                    },
+                    {
+                        "name": "Model Name",
+                        "value": "Data Misfit Component 01",
+                        "dataParamName": "modelName"
+                    },
+                    {
+                        "name": "Creation Date",
+                        "value": "Replace Date",
+                        "dataParamName": "creationDate"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "uom": "N/A",
+                        "name": "Product Type",
+                        "dataParamName": "productType",
+                        "seq": "",
+                        "value": "Appliance Controls"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Owner Reference (Party Site ID)",
+                        "dataParamName": "ownerReference_PartySiteID",
+                        "seq": "",
+                        "value": "Replace Owner"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Reference Number",
+                        "dataParamName": "referenceNumber",
+                        "seq": "",
+                        "value": "DEMOFILE01"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Family / Series",
+                        "dataParamName": "family_Series",
+                        "seq": "",
+                        "value": "Reg-Test"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Model Name",
+                        "dataParamName": "modelName",
+                        "seq": "",
+                        "value": "Data Misfit Component 01"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Creation Date",
+                        "dataParamName": "creationDate",
+                        "seq": "",
+                        "value": "Replace Date"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Base Model",
+                        "dataParamName": "baseModel",
+                        "seq": "",
+                        "value": "Yes"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Representation Model",
+                        "dataParamName": "representationModel",
+                        "seq": "",
+                        "value": "None"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CCN",
+                        "dataParamName": "cCN",
+                        "seq": "",
+                        "value": "None"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "UL",
+                        "dataParamName": "uL",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CUL",
+                        "dataParamName": "cUL",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Certification Date",
+                        "dataParamName": "certificationDate",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "LIS Category Description",
+                        "dataParamName": "lISCategoryDescription",
+                        "seq": "",
+                        "value": "Appliance Controls"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "UL 244A",
+                        "dataParamName": "uL244A",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "UL 917",
+                        "dataParamName": "uL917",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "UL 60730",
+                        "dataParamName": "uL60730",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "UL 60730 Part 1 Used",
+                        "dataParamName": "uL60730Part1Used",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "UL 60730 Part 2 Used",
+                        "dataParamName": "uL60730Part2Used",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA C22.2 No. 14",
+                        "dataParamName": "cSAC22_2No_14",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA C22.2 No. 24-93",
+                        "dataParamName": "cSAC22_2No_24_93",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA C22.2 No. 24-15",
+                        "dataParamName": "cSAC22_2No_24_15",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA C22.2 No. 177",
+                        "dataParamName": "cSAC22_2No_177",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA C22.2 No. 205",
+                        "dataParamName": "cSAC22_2No_205",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA E60730",
+                        "dataParamName": "cSAE60730",
+                        "seq": "",
+                        "value": "No"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA E60730 Part 1 Edition",
+                        "dataParamName": "cSAE60730Part1Edition",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "CSA E60730 Part 2 Edition",
+                        "dataParamName": "cSAE60730Part2Edition",
+                        "seq": "",
+                        "value": ""
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Type",
+                        "dataParamName": "type",
+                        "seq": "",
+                        "value": "Electronic"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Purpose",
+                        "dataParamName": "purpose",
+                        "seq": "",
+                        "value": "Operating"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Footnote Symbol",
+                        "dataParamName": "footnoteSymbol",
+                        "seq": "1",
+                        "value": ""
+                    },
+                    {
+                        "uom": "",
+                        "name": "metadataId",
+                        "dataParamName": "metadataId",
+                        "seq": "",
+                        "value": "${misfit_v1_metadataId}"
+                    }
+                ]
+            }
+        ]
+    }
+}

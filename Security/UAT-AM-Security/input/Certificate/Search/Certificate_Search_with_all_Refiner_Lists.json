@@ -1,0 +1,50 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "ownerReferenceList": [
+            {
+                "ownerReference": "${Cert_Owner_Ref}"
+            }
+        ],
+        "issuingBodyList": [
+            {
+                "issuingBody": "${issuing_body_1}"
+            }
+        ],
+        "certificateTypeList": [
+            {
+                "certificateType": "${certificate_type_1}"
+            }
+        ],
+        "markList": [
+            {
+                "mark": "${mark_1}"
+            }
+        ],
+        "statusList": [
+            {
+                "status": "${status_Active}"
+            }
+        ],
+        "ccnList": [
+            {
+                "ccn": "${Scope_Code_1}"
+            }
+        ],
+        "issueDateList": [
+            {
+                "issueDate": "${today_date}"
+            }
+        ],
+        "partySiteNumberListList": [
+            {
+                "partySiteNumber": "${BO_partysite_number_1}"
+            }
+        ],
+        "partiesRelationshipTypeList": [
+            {
+                "partiesRelationshipType": "${party_brand_owner}"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "results":[],
+    "evaluations":{
+        "clauseId":"",
+        "assessmentParamId":"${assessmentParamId}",
+        "assessmentId":"${assessmentId}",
+        "questions":[],
+        "rowId":"72",
+        "hierarchy":[
+            {
+                "name":"Standard",
+                "dataParamName":"standard",
+                "value":"Validation"
+            },
+            {
+                "name":"Standard Edition",
+                "dataParamName":"standardEdition",
+                "value": "4th"
+            },
+            {
+                "name":"Applicability",
+                "dataParamName":"applicability",
+                "value":"Regression Test - With Clause Groups"
+            },
+            {
+                "name":"Standard Revision Date",
+                "dataParamName":"revisionDate",
+                "value":"2016-11-16"
+            }
+        ],
+        "requirements":{
+            "requirementName":"Group 9 - Guidance Notes Characters",
+            "subGroupName":"RG9-RsG071"
+        },
+        "mode":""
+    },
+    "user":"Nisarg_Automation"
+}

@@ -1,0 +1,11 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "orderBy": "-${updatedOn_key}",
+        "${list_name}": [
+            {
+                "${list_key}": "${list_value}"
+            }
+        ]
+    }
+}

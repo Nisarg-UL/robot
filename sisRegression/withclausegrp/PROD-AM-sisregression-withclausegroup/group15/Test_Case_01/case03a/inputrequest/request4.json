@@ -1,0 +1,71 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "2",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "NA",
+            "clauseGroupText": "B, B-Pass",
+            "notes": "",
+            "clauseText": ""
+        },
+        {
+            "tableNumber": "",
+            "clauseId": "1",
+            "hasMoreRows": false,
+            "aeoDetails": "",
+            "verdict": "NA",
+            "clauseGroupText": "A, A-Pass",
+            "notes": "",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "3",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "10",
+                "responses": "No",
+                "uom": "",
+                "displayName": "Is this Clause Q3 applicable?",
+                "paramName": "IsThisClause_2",
+                "paramType": "applicability"
+            }
+        ],
+        "rowId": "10",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 15 - Clause Verdict Roll Up Testing",
+            "subGroupName": "Test"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

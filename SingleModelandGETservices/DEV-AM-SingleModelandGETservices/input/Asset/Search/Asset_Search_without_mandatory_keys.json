@@ -1,0 +1,25 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "${value_as_0}",
+        "rows": "${value_as_10}",
+        "orderBy": "+${modelName_key}",
+        "completed": "${value_as_N}",
+        "accepted": "${value_as_N}",
+        "isPLAsset": "${value_as_N}",
+        "facet": [
+            {
+                "field": "${productType_key}"
+            },
+            {
+                "field": "${ownerReference_key}"
+            },
+            {
+                "field": "${referenceNumber_key}"
+            },
+            {
+                "field": "${family_Series_key}"
+            }
+        ]
+    }
+}

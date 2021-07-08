@@ -1,0 +1,318 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "${asset_Id_Product1}",
+                "user": "Nisarg_Automation",
+                "hierarchy": [
+                    {
+                        "name": "Product Type",
+                        "dataParamName": "attribProductType",
+                        "value": "Regression Test Product 1"
+                    }
+                ],
+                "taxonomy": [
+                ],
+                "attributes": [
+                ],
+                "hasComponents": [
+                    {
+                        "assetId": "${asset_Id_Product2}",
+                        "assetAssetLinkSeqId": "",
+                        "hierarchy": [
+                            {
+                                "name": "Product Type",
+                                "dataParamName": "attribProductType",
+                                "value": "Regression Test Product 2"
+                            }
+                        ],
+                        "taxonomy": [
+                        ],
+                        "isAlternateOf": [
+                        ],
+                        "attributes": [
+                        ],
+                        "hasAssetLinkage": [
+                            {
+                                "dataParamName": "functionalUse",
+                                "seq": "",
+                                "uom": "N/A",
+                                "value": "Functional Use 2"
+                            },
+                            {
+                                "dataParamName": "componentName",
+                                "seq": "",
+                                "uom": "N/A",
+                                "value": "Comp Name 2"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute1",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Neutral"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute2",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute3",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "5"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute4",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1.1"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute5",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "2015-01-20"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute6",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "A"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute7",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "B"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute8",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute9",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute10",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute11",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Yes"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute12",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "No"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute13",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1234"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute14",
+                                "seq": "1",
+                                "uom": "volts",
+                                "value": "1"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute15",
+                                "seq": "1",
+                                "uom": "amps",
+                                "value": "0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute16",
+                                "seq": "1",
+                                "uom": "hz",
+                                "value": "20"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute17",
+                                "seq": "1",
+                                "uom": "watts",
+                                "value": "7.3"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute18",
+                                "seq": "1",
+                                "uom": "ohms",
+                                "value": "0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute19",
+                                "seq": "1",
+                                "uom": "V",
+                                "value": "0.84"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute20",
+                                "seq": "1",
+                                "uom": "m^3",
+                                "value": "-6"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute21",
+                                "seq": "1",
+                                "uom": "cu. In.",
+                                "value": "-45"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute22",
+                                "seq": "1",
+                                "uom": "lb in.",
+                                "value": "20"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute23",
+                                "seq": "1",
+                                "uom": "gigawatts",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute24",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute25",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute26",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute27",
+                                "seq": "1",
+                                "uom": "A",
+                                "value": "abc"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute28",
+                                "seq": "1",
+                                "uom": "B",
+                                "value": "0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute29",
+                                "seq": "1",
+                                "uom": "C",
+                                "value": "0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute30",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "No"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute31",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1990-08-22"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute32",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Cheetara"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute33",
+                                "seq": "1",
+                                "uom": "Dogs",
+                                "value": "10"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute34",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "0.5"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute35",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Yes"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute36",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1955-10-18"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute37",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "No"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute38",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "No"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute39",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "2017-03-06"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute40",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1.0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute41",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "456"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute42",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "2017-03-06"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute43",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Yes"
+                            },
+                            {
+                                "dataParamName": "aL_RTP2_FU2Attribute44",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "2.3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

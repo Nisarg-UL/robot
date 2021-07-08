@@ -1,0 +1,15 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "${entity_name}",
+        "tabName": "${tab_name}",
+        "user": "${user}",
+        "role": "${role}",
+        "attributes": [
+            {
+                "attributeName": "Owner Reference",
+                "readAccess": "${read_access}"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "tableNumber": "",
+            "clauseId": "25",
+            "aeoDetails": "",
+            "hasMoreRows": true,
+            "verdict": "PENDING NA",
+            "notes": "Did not test Implicit NA",
+            "clauseText": ""
+        }
+    ],
+    "evaluations": {
+        "clauseId": "25",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "NoToTest_0",
+                "responses": "No",
+                "displayName": "No to test implicit NA",
+                "rowId": "38",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "Row2To_0",
+                "responses": "No",
+                "displayName": "Row 2 to skip, Select No to skip",
+                "rowId": "39",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            }
+        ],
+        "rowId": "40",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "3rd"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - No Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 1",
+            "subGroupName": "Test Case 25 - Implicit NA Multi Row skipping"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

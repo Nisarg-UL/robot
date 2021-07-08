@@ -1,0 +1,310 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "${asset_Id_Product12}",
+                "user": "Nisarg_Automation",
+                "collectionId": "${Collection_Id}",
+                "hierarchy": [
+                ],
+                "taxonomy": [
+                ],
+                "attributes": [
+                ],
+                "ulAssetId": "${asset_Id_Product12}",
+                "hasComponents": [
+                    {
+                        "assetId": "${asset_Id_Product3}",
+                        "assetAssetLinkSeqId": "",
+                        "hierarchy": [
+                        ],
+                        "taxonomy": [
+                        ],
+                        "isAlternateOf": [
+                        ],
+                        "attributes": [
+                        ],
+                        "hasAssetLinkage": [
+                            {
+                                "dataParamName": "functionalUse",
+                                "seq": "",
+                                "uom": "N/A",
+                                "value": "Functional Use 1"
+                            },
+                            {
+                                "dataParamName": "componentName",
+                                "seq": "",
+                                "uom": "N/A",
+                                "value": "Comp Name 2"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute1",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Neutral"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute2",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute3",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "5"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute4",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1.1"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute5",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "2015-01-20"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute6",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "A"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute7",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "B"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute8",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "3"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute9",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1.1"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute10",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1976-01-01"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute11",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Yes"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute12",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "No"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute13",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute14",
+                                "seq": "1",
+                                "uom": "volts",
+                                "value": "13"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute15",
+                                "seq": "1",
+                                "uom": "amps",
+                                "value": "0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute16",
+                                "seq": "1",
+                                "uom": "hz",
+                                "value": "100"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute17",
+                                "seq": "1",
+                                "uom": "watts",
+                                "value": "7.3"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute18",
+                                "seq": "1",
+                                "uom": "ohms",
+                                "value": "0.5"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute19",
+                                "seq": "1",
+                                "uom": "V",
+                                "value": "0.84"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute20",
+                                "seq": "1",
+                                "uom": "m^3",
+                                "value": "-6"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute21",
+                                "seq": "1",
+                                "uom": "cu. In.",
+                                "value": "-45"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute22",
+                                "seq": "1",
+                                "uom": "lb in.",
+                                "value": "20"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute23",
+                                "seq": "1",
+                                "uom": "giga watts",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute24",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute25",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute26",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute27",
+                                "seq": "1",
+                                "uom": "A",
+                                "value": "abc"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute28",
+                                "seq": "1",
+                                "uom": "B",
+                                "value": "0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute29",
+                                "seq": "1",
+                                "uom": "C",
+                                "value": "0"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute30",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "No"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute31",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "2007-07-07"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute32",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Snark"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute33",
+                                "seq": "1",
+                                "uom": "Dogs",
+                                "value": "-10"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute34",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "-9.5"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute35",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "No"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute36",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1977-01-20"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute37",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute38",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute39",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute40",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": ""
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute41",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute42",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1976-01-01"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute43",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "Yes"
+                            },
+                            {
+                                "dataParamName": "aL_RTP3_FU1Attribute44",
+                                "seq": "1",
+                                "uom": "N/A",
+                                "value": "1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "orderBy": "-${updatedOn_key}",
+        "searchParameters": {
+            "productType": {
+                "operator": "${operator_value}",
+                "value": "${product_type}"
+            },
+            "ownerReference": {
+                "operator": "${operator_value}",
+                "value": "${Cert_Owner_Ref}"
+            },
+            "issuingBody": {
+                "operator": "${operator_value}",
+                "value": "${value_as_US}"
+            },
+            "certificateType": {
+                "operator": "${operator_value}",
+                "value": "${certificate_type_1}"
+            },
+            "mark": {
+                "operator": "${operator_value}",
+                "value": "${value_as_List}"
+            },
+            "certificateName": {
+                "operator": "${operator_value}",
+                "value": "${value_as_Regression}"
+            }
+        }
+    }
+}

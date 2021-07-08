@@ -1,0 +1,85 @@
+{
+    "results": [
+    ],
+    "evaluations": {
+        "clauseId": "10",
+        "assessmentParamId": "${assessmentParamId}",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "paramName": "APQuestion1_0",
+                "responses": "Yes",
+                "displayName": "AP Question 1 - Yes to Proceed to AP 2 - No to end test with Not Applicable",
+                "rowId": "31",
+                "orderNum": "0",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "APQuestion2_0",
+                "responses": "Yes",
+                "displayName": "AP Question 2 - Yes to Proceed to AP 3 - No to end test with Not Applicable",
+                "rowId": "31",
+                "orderNum": "1",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "APQuestion3_0",
+                "responses": "Yes",
+                "displayName": "AP Question 3 - Yes to Proceed to AP 4 - No to end test with Not Applicable",
+                "rowId": "31",
+                "orderNum": "2",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "APQuestion4_0",
+                "responses": "Yes",
+                "displayName": "AP Question 4 - Yes to Proceed to Requirement Parameter - No to end test with Not Applicable",
+                "rowId": "31",
+                "orderNum": "3",
+                "uom": "",
+                "paramType": "AP"
+            },
+            {
+                "paramName": "SuccessfullyNavigatedThrough_0",
+                "responses": "N",
+                "displayName": "Successfully navigated through 4 applicability parameters - Yes to end test with Pass - No to end test with Fail",
+                "rowId": "31",
+                "orderNum": "4",
+                "uom": "",
+                "paramType": "RP"
+            }
+        ],
+        "rowId": "31",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "dataParamName": "standard",
+                "value": "Validation"
+            },
+            {
+                "name": "Standard Edition",
+                "dataParamName": "standardEdition",
+                "value": "4th"
+            },
+            {
+                "name": "Applicability",
+                "dataParamName": "applicability",
+                "value": "Regression Test - With Clause Groups"
+            },
+            {
+                "name": "Standard Revision Date",
+                "dataParamName": "revisionDate",
+                "value": "2016-11-16"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 1",
+            "subGroupName": "Test Case 10 - Multiple Applicability Parameter Questions"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

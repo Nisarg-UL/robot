@@ -1,0 +1,31 @@
+{
+    "data": {
+        "entity": "Scheme",
+        "entityName": "Regression Scheme",
+        "tabName": "Certificate",
+        "user": "ManojAutomation",
+        "role": "Local Representative",
+        "attributes": [
+            {
+                "attributeName": "Certificate Type",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Issuing Body",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Mark",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Certificate Name",
+                "readAccess": "Y"
+            },
+            {
+                "attributeName": "Revision Number",
+                "readAccess": "Y"
+            }
+        ]
+    }
+}

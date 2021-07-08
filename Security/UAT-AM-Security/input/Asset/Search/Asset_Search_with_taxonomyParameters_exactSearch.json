@@ -1,0 +1,37 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "offset": "",
+        "rows": "",
+        "completed": "",
+        "accepted": "",
+        "isPLAsset": "",
+        "searchParameters": {
+            "productType": {
+                "operator": "${exact_search_value}",
+                "value": "${product_type_1}"
+            },
+            "ownerReference_PartySiteID": {
+                "operator": "${exact_search_value}",
+                "value": "${Asset_Owner_Ref}"
+            },
+            "referenceNumber": {
+                "operator": "${exact_search_value}",
+                "value": "${reference_number_1}"
+            },
+            "family_Series": {
+                "operator": "${exact_search_value}",
+                "value": "${family_series_1}-${current_time}"
+            },
+            "modelName": {
+                "operator": "${exact_search_value}",
+                "value": "${model_name_1}_${current_time}"
+            }
+        },
+        "productTypeList": [],
+        "ownerReferenceList": [],
+        "referenceNumberList": [],
+        "family_SeriesList": [],
+        "statusList":[]
+    }
+}

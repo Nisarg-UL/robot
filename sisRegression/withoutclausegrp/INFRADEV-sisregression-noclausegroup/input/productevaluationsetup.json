@@ -1,0 +1,33 @@
+{
+    "projectNumber": "Nisarg_Automation_Evaluation",
+    "items": [
+        {
+            "hierarchyId": "${standard_hierarchy_Id}",
+            "hierarchy": [
+                {
+                    "name": "Standard",
+                    "dataParamName": "standard",
+                    "value": "Validation"
+                },
+                {
+                    "name": "Standard Edition",
+                    "dataParamName": "standardEdition",
+                    "value": "3rd"
+                },
+                {
+                    "name": "Applicability",
+                    "dataParamName": "applicability",
+                    "value": "Regression Test - No Clause Groups"
+                },
+                {
+                    "name": "Standard Revision Date",
+                    "dataParamName": "revisionDate",
+                    "value": "2016-11-16"
+                }
+            ]
+        }
+    ],
+    "removed": [
+    ],
+    "user": "Nisarg_Automation"
+}

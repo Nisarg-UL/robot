@@ -1,0 +1,10 @@
+{
+    "data": {
+        "user": "${user_1}",
+        "ownerReferenceList": [
+            {
+                "ownerReference": "${Cert_Owner_Ref}"
+            }
+        ]
+    }
+}

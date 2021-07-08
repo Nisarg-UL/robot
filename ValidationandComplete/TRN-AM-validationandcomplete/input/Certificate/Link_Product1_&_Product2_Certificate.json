@@ -1,0 +1,43 @@
+{
+    "hasTransaction": [
+        {
+            "hasAssets": [
+                {
+                    "assetId": "${asset_Id_Product1}",
+                    "ulAssetId": "${ul_asset_Id}",
+                    "productType": "Regression Test Product 1"
+                }
+            ],
+            "transactionId": "${Cert_Transaction_Id}",
+            "certificateId": "${Certificate_Id}",
+            "hasEvaluations": [
+                {
+                    "assetAssessmentId": "${assessmentId1}"
+                }
+            ],
+            "attributes": [],
+            "hasParties": [],
+            "supplyChainId": ""
+        },
+        {
+            "hasAssets": [
+                {
+                    "assetId": "${asset_Id_Product12}",
+                    "ulAssetId": "${ul_asset_Id_2}",
+                    "productType": "Regression Test Product 1"
+                }
+            ],
+            "transactionId": "",
+            "certificateId": "",
+            "hasEvaluations": [
+                {
+                    "assetAssessmentId": "${assessmentId2}"
+                }
+            ],
+            "attributes": [],
+            "hasParties": [],
+            "supplyChainId": ""
+        }
+    ],
+    "user": "50696"
+}

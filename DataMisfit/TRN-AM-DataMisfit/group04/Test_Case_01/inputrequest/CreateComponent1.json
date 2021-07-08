@@ -1,0 +1,159 @@
+{
+    "data": {
+        "asset": [
+            {
+                "assetId": "",
+                "ulAssetId": "",
+                "collectionId": "",
+                "user": "Manoj_Automation",
+                "hierarchy": [
+                    {
+                        "name": "Product Type",
+                        "dataParamName": "attribProductType",
+                        "value": "Data Misfit Component A"
+                    }
+                ],
+                "taxonomy": [
+                    {
+                        "name": "Product Type",
+                        "value": "Data Misfit Component A",
+                        "dataParamName": "productType"
+                    },
+                    {
+                        "name": "Owner Reference (Party Site ID)",
+                        "value": "Replace Owner",
+                        "dataParamName": "ownerReference_PartySiteID"
+                    },
+                    {
+                        "name": "Reference Number",
+                        "value": "DEMOFILE01",
+                        "dataParamName": "referenceNumber"
+                    },
+                    {
+                        "name": "Family / Series",
+                        "value": "Reg-Test",
+                        "dataParamName": "family_Series"
+                    },
+                    {
+                        "name": "Model Name",
+                        "value": "Data Misfit Component 01",
+                        "dataParamName": "modelName"
+                    },
+                    {
+                        "name": "Creation Date",
+                        "value": "Replace Date",
+                        "dataParamName": "creationDate"
+                    }
+                ],
+                "attributes": [
+                    {
+                        "uom": "N/A",
+                        "name": "Product Type",
+                        "dataParamName": "productType",
+                        "seq": "",
+                        "value": "Data Misfit Component A"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Owner Reference (Party Site ID)",
+                        "dataParamName": "ownerReference_PartySiteID",
+                        "seq": "",
+                        "value": "Replace Owner"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Reference Number",
+                        "dataParamName": "referenceNumber",
+                        "seq": "",
+                        "value": "DEMOFILE01"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Family / Series",
+                        "dataParamName": "family_Series",
+                        "seq": "",
+                        "value": "Reg-Test"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Model Name",
+                        "dataParamName": "modelName",
+                        "seq": "",
+                        "value": "Data Misfit Component 01"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Creation Date",
+                        "dataParamName": "creationDate",
+                        "seq": "",
+                        "value": "Replace Date"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Collection Name",
+                        "seq": "",
+                        "dataParamName": "collectionName",
+                        "value": "Reg-Collection"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Order Number",
+                        "seq": "",
+                        "dataParamName": "orderNumber",
+                        "value": "Replace Order"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Project Number",
+                        "seq": "",
+                        "dataParamName": "projectNumber",
+                        "value": "Replace Project"
+                    },
+                    {
+                        "uom": "",
+                        "name": "Quote Number",
+                        "seq": "",
+                        "dataParamName": "quoteNumber",
+                        "value": "Replace Quote"
+                    },
+                    {
+                        "uom": "N/A",
+                        "name": "Attribute 1",
+                        "dataParamName": "attribute1",
+                        "seq": "",
+                        "value": "Value"
+                    },
+                    {
+                        "uom": "",
+                        "name": "metadataId",
+                        "dataParamName": "metadataId",
+                        "seq": "",
+                        "value": "${misfit_v1_metadataId}"
+                    }
+                ],
+                "collectionAttributes": [
+                    {
+                        "name": "Collection Name",
+                        "value": "Reg-Collection",
+                        "dataParamName": "collectionName"
+                    },
+                    {
+                        "name": "Project Number",
+                        "value": "Replace Project",
+                        "dataParamName": "projectNumber"
+                    },
+                    {
+                        "name": "Quote Number",
+                        "value": "Replace Quote",
+                        "dataParamName": "quoteNumber"
+                    },
+                    {
+                        "name": "Order Number",
+                        "value": "Replace Order",
+                        "dataParamName": "orderNumber"
+                    }
+                 ]
+            }
+        ]
+    }
+}

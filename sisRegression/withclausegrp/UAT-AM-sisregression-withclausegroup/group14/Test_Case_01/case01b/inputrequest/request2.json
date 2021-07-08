@@ -1,0 +1,69 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "a1",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "2",
+                "responses": "A",
+                "uom": "",
+                "displayName": "TP1 Attribute 6",
+                "paramName": "TP1Attribute6_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "2",
+                "responses": "No",
+                "uom": "",
+                "displayName": "a1 - Select Yes to proceed to Applicability Parameter 3. No to short circuit",
+                "paramName": "A1-Select_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "1",
+                "rowId": "3",
+                "responses": "No",
+                "uom": "",
+                "displayName": "a2 - Select Yes to proceed to Requirement Parameter. No to short circuit",
+                "paramName": "A2-Select_0",
+                "paramType": "applicability"
+            }
+        ],
+        "rowId": "2",
+
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 14 - Data Linked Scenarios - Single Clause Group, multiple Data linkages down a Column",
+            "subGroupName": "Data Linkage UI Test - Single LoV"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

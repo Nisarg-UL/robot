@@ -1,0 +1,59 @@
+{
+    "results": [],
+    "evaluations": {
+        "assessmentParamId": "${assessmentParamId}",
+        "clauseId": "29",
+        "overriddenVerdict": "",
+        "overriddenReason": "",
+        "assessmentId": "${assessmentId}",
+        "questions": [
+            {
+                "orderNum": "0",
+                "rowId": "21",
+                "responses": "1",
+                "uom": "",
+                "displayName": "TP1 Attribute 8",
+                "paramName": "TP1Attribute8_0",
+                "paramType": "applicability"
+            },
+            {
+                "orderNum": "2",
+                "rowId": "21",
+                "responses": "No",
+                "uom": "",
+                "displayName": "Value was less than or equal to 5 and greater than or equal to 0 - Yes to Pass",
+                "paramName": "ValueWasLess_0",
+                "paramType": "requirement"
+            }
+        ],
+        "rowId": "21",
+        "hierarchy": [
+            {
+                "name": "Standard",
+                "value": "Validation",
+                "dataParamName": "standard"
+            },
+            {
+                "name": "Standard Edition",
+                "value": "4th",
+                "dataParamName": "standardEdition"
+            },
+            {
+                "name": "Applicability",
+                "value": "Regression Test - With Clause Groups",
+                "dataParamName": "applicability"
+            },
+            {
+                "name": "Standard Revision Date",
+                "value": "2016-11-16",
+                "dataParamName": "revisionDate"
+            }
+        ],
+        "requirements": {
+            "requirementName": "Group 3 - Data Linkage",
+            "subGroupName": "Test Case 29 - Parameter Ranges with Data Linkages"
+        },
+        "mode": ""
+    },
+    "user": "Nisarg_Automation"
+}

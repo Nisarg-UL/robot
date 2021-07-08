@@ -1,0 +1,170 @@
+{
+    "data": {
+        "baseCertificate": {
+            "certificateType": "Regression Scheme",
+            "ownerReference": "${Asset_Owner_Ref}",
+            "certificateName": "${certificate_name_1}-${current_time}"
+        },
+        "name": "PL-${certificate_name_1}-${current_time}",
+        "revisionNumber": "1",
+        "user": "50696",
+        "attributes": [
+            {
+                "uom": "N/A",
+                "name": "Certificate Type",
+                "dataParamName": "certificateType",
+                "seq": "",
+                "value": "Regression Scheme"
+            },
+            {
+                "uom": "N/A",
+                "name": "Issuing Body",
+                "dataParamName": "issuingBody",
+                "seq": "",
+                "value": "USA"
+            },
+            {
+                "uom": "N/A",
+                "name": "Mark",
+                "dataParamName": "mark",
+                "seq": "",
+                "value": "Recognized"
+            },
+            {
+                "uom": "N/A",
+                "name": "Certificate Name",
+                "dataParamName": "certificateName",
+                "seq": "",
+                "value": "${certificate_name_1}-${current_time}"
+            },
+            {
+                "uom": "N/A",
+                "name": "Owner Reference",
+                "dataParamName": "ownerReference",
+                "seq": "",
+                "value": "${Asset_Owner_Ref}"
+            },
+            {
+                "uom": "N/A",
+                "name": "Certification Scheme Owner",
+                "dataParamName": "certificationSchemeOwner",
+                "seq": "",
+                "value": "UL LLC"
+            },
+            {
+                "uom": "N/A",
+                "name": "CCN",
+                "dataParamName": "cCN",
+                "seq": "",
+                "value": "QMFZ"
+            },
+            {
+                "uom": "N/A",
+                "name": "Complementary CCN",
+                "dataParamName": "complementaryCCN",
+                "seq": "",
+                "value": "QMFZ"
+            },
+            {
+                "uom": "N/A",
+                "name": "Test Date",
+                "dataParamName": "testDate",
+                "seq": "",
+                "value": "2018-01-11"
+            },
+            {
+                "uom": "",
+                "name": "metadataId",
+                "dataParamName": "metadataId",
+                "seq": "",
+                "value": "${certificate_metadataId}"
+            },
+            {
+                "uom": "N/A",
+                "name": "Revision Number",
+                "dataParamName": "revisionNumber",
+                "seq": "",
+                "value": "1"
+            },
+            {
+                "uom": "N/A",
+                "name": "Model Numbers",
+                "dataParamName": "modelNumbers",
+                "seq": "1",
+                "value": "Certificate_Automation"
+            },
+            {
+                "uom": "N/A",
+                "name": "Certification Scheme Product Type",
+                "dataParamName": "certificationSchemeProductType",
+                "seq": "1",
+                "value": "Regression Test Product 1"
+            },
+            {
+                "uom": "N/A",
+                "name": "Certification Scheme Product Type Code",
+                "dataParamName": "certificationSchemeProductTypeCode",
+                "seq": "1",
+                "value": "007"
+            },
+            {
+                "uom": "N/A",
+                "name": "Standard Number",
+                "dataParamName": "standardNumber",
+                "seq": "1",
+                "value": "Validation"
+            },
+            {
+                "uom": "N/A",
+                "name": "Standard Code",
+                "dataParamName": "standardCode",
+                "seq": "1",
+                "value": "4th"
+            },
+            {
+                "uom": "N/A",
+                "name": "Footnote Symbol",
+                "dataParamName": "footnoteSymbol",
+                "seq": "1",
+                "value": ""
+            },
+            {
+                "uom": "N/A",
+                "name": "Electrical Efficiency Rated",
+                "dataParamName": "electricalEfficiencyRated",
+                "seq": "1",
+                "value": "Yes"
+            },
+            {
+                "uom": "percent",
+                "name": "Energy Efficiency Rating",
+                "dataParamName": "energyEfficiencyRating",
+                "seq": "1",
+                "value": "0.1"
+            }
+        ],
+        "ref_attributes": [
+            {
+                "dataParamName": "certificationProductType",
+                "name": "Certification Product Type",
+                "value": "${Regression_schemeScopeId}",
+                "pkSchemeScopeId": "${Regression_schemeScopeId}",
+                "pkScopeId": "${scope_Id}",
+                "uom": "",
+                "action": "add",
+                "seq": "1"
+            },
+            {
+                "dataParamName": "standard",
+                "name": "Standard",
+                "value": "${RegVal_schemeScopeStandardId}",
+                "pKSchemeScopeStandardId": "${RegVal_schemeScopeStandardId}",
+                "pkStandardId": "${Validation_standard_Id}",
+                "pkStandardLabelId": "${Validation_standardLabel_Id}",
+                "uom": "",
+                "action": "add",
+                "seq": "1"
+            }
+        ]
+    }
+}
