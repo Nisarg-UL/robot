@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d851e3eb-2057-465d-9f81-1a7688836066" name="Default" comment="" />
+    <list default="true" id="d851e3eb-2057-465d-9f81-1a7688836066" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/resource/UAT_ENV_Variables.robot" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1gsZLlrPvC2Ts3H6F031c6jpVyl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UAT-AM-SingleModelandGETservices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TRN-AM-AssetPaginatedSearch" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -48,10 +54,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" width="640" height="489" key="FileChooserDialogImpl" timestamp="1620405198236">
+    <state x="549" y="167" width="640" height="489" key="FileChooserDialogImpl" timestamp="1627913587602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" width="640" height="489" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620405198236" />
+    <state x="549" y="167" width="640" height="489" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627913587602" />
     <state x="457" y="131" width="740" height="606" key="find.popup" timestamp="1619751247951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f057c40-03ec-432f-b75d-dafe046f60cc" name="Default" comment="" />
+    <list default="true" id="4f057c40-03ec-432f-b75d-dafe046f60cc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Regression_testing_GitHub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/resource/TRN_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/resource/UAT_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/resource/TRN_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UAT-AM-ReferenceDataConsumption/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UAT-AM-ReferenceDataConsumption/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UAT-AM-ReferenceDataConsumption/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../UAT-AM-ReferenceDataConsumption/resource/UAT_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/resource/TRN_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/resource/UAT_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/resource/TRN_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/resource/UAT_ENV_Variables.robot" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1dS8gilVDUY64jzPCoTMNYixh1P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DataMisfit/TRN-AM-DataMisfit" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -31,13 +53,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619060071379">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627913931478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619060071379" />
-    <state x="462" y="144" width="611" height="536" key="find.popup" timestamp="1612481123856">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="462" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1612481123856" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627913931478" />
   </component>
 </project>

@@ -9,7 +9,7 @@ ${pass_wd}    @{database}[3]
 ${host}       @{database}[4]
 ${port}       @{database}[5]
 
-${Api_ver}  5.17
+${Api_ver}  5.22
 
 ${certificate_hierarchy_Id}      2f218343-3156-4554-83e7-4c2f09ab13fe          #for TRN
 ${certificate2_hierarchy_Id}     cd9a5b31-7e58-4ba3-a336-6d4afa6a637a          #for TRN
