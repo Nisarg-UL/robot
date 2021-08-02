@@ -1,46 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10b37d30-784f-411e-b9cc-1a5ebace89c9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/Regression_testing_GitHub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/resource/TRN_ENV_Variables.robot" afterDir="false" />
+    <list default="true" id="10b37d30-784f-411e-b9cc-1a5ebace89c9" name="Default" comment="Update API v.5.22 for UAT and TRN environments">
+      <change afterPath="$PROJECT_DIR$/../../DataMisfit/TRN-AM-DataMisfit/.idea/TRN-AM-DataMisfit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PrivateLabel/TRN-AM-PrivateLabel/.idea/TRN-AM-PrivateLabel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Security/TRN-AM-Security/.idea/TRN-AM-Security.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SingleModelandGETservices/TRN-AM-SingleModelandGETservices/.idea/TRN-AM-SingleModelandGETservices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sisRegression/withclausegrp/DEV-AM-sisregression-withclausegroup/.idea/DEV-AM-sisregression-withclausegroup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sisRegression/withclausegrp/UAT-AM-sisregression-withclausegroup/.idea/UAT-AM-sisregression-withclausegroup.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CertRefDataConsumption/TRN-AM-ReferenceDataConsumption/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertRefDataConsumption/TRN-AM-ReferenceDataConsumption/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CertRefDataConsumption/TRN-AM-ReferenceDataConsumption/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertRefDataConsumption/TRN-AM-ReferenceDataConsumption/resource/TRN_ENV_Variables.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertRefDataConsumption/UAT-AM-ReferenceDataConsumption/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertRefDataConsumption/UAT-AM-ReferenceDataConsumption/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertRefDataConsumption/UAT-AM-ReferenceDataConsumption/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertRefDataConsumption/UAT-AM-ReferenceDataConsumption/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/TRN-AM-CertificatePaginatedSearch/resource/TRN_ENV_Variables.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression/resource/TRN_ENV_Variables.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../CertificationRegression/UAT-AM-CertificationRegression/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DataMisfit/TRN-AM-DataMisfit/resource/ApiFunctions.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataMisfit/TRN-AM-DataMisfit/resource/ApiFunctions.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DataMisfit/UAT-AM-DataMisfit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataMisfit/UAT-AM-DataMisfit/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DataMisfit/UAT-AM-DataMisfit/resource/ApiFunctions.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataMisfit/UAT-AM-DataMisfit/resource/ApiFunctions.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PrivateLabel/TRN-AM-PrivateLabel/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrivateLabel/TRN-AM-PrivateLabel/resource/TRN_ENV_Variables.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PrivateLabel/UAT-AM-PrivateLabel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrivateLabel/UAT-AM-PrivateLabel/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PrivateLabel/UAT-AM-PrivateLabel/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../PrivateLabel/UAT-AM-PrivateLabel/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Security/TRN-AM-Security/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../Security/TRN-AM-Security/resource/TRN_ENV_Variables.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Security/UAT-AM-Security/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Security/UAT-AM-Security/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Security/UAT-AM-Security/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../Security/UAT-AM-Security/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SingleModelandGETservices/TRN-AM-SingleModelandGETservices/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../SingleModelandGETservices/TRN-AM-SingleModelandGETservices/resource/TRN_ENV_Variables.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SingleModelandGETservices/UAT-AM-SingleModelandGETservices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SingleModelandGETservices/UAT-AM-SingleModelandGETservices/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SingleModelandGETservices/UAT-AM-SingleModelandGETservices/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../SingleModelandGETservices/UAT-AM-SingleModelandGETservices/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TRN-AM-TaxonomyModification/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TRN-AM-TaxonomyModification/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TRN-AM-TaxonomyModification/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../TRN-AM-TaxonomyModification/resource/TRN_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../multiModel/TRN-AM-multimodel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiModel/TRN-AM-multimodel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../multiModel/TRN-AM-multimodel/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiModel/TRN-AM-multimodel/resource/TRN_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../multiModel/UAT-AM-multimodel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiModel/UAT-AM-multimodel/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../multiModel/UAT-AM-multimodel/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiModel/UAT-AM-multimodel/resource/UAT_ENV_Variables.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sisRegression/withclausegrp/TRN-AM-sisregression-withclausegroup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sisRegression/withclausegrp/TRN-AM-sisregression-withclausegroup/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sisRegression/withclausegrp/TRN-AM-sisregression-withclausegroup/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../sisRegression/withclausegrp/TRN-AM-sisregression-withclausegroup/resource/TRN_ENV_Variables.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sisRegression/withclausegrp/UAT-AM-sisregression-withclausegroup/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../sisRegression/withclausegrp/UAT-AM-sisregression-withclausegroup/resource/UAT_ENV_Variables.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +47,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CertificatePaginatedSearch/UAT-AM-CertificatePaginatedSearch" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
@@ -86,17 +74,45 @@
       <option name="presentableId" value="Default" />
       <updated>1584968680677</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update API v.5.22 for UAT and TRN environments">
+      <created>1627914645326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627914645326</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated $certificate_metadataId for UAT for the latest one">
+      <created>1627934689536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627934689536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update API v.5.22 for UAT and TRN environments" />
+    <MESSAGE value="Updated $certificate_metadataId for UAT for the latest one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated $certificate_metadataId for UAT for the latest one" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619453872980">
+    <state x="430" y="7" key="CommitChangelistDialog2" timestamp="1627934682944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619453872980" />
+    <state x="430" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627934682944" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627934795396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627934795396" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1627914455499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627914455499" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1627934727489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1627934727489" />
     <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1619454756526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
