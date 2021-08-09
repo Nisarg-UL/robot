@@ -8,7 +8,7 @@
         "creationDate": "${today_date}"
     },
     "new": {
-        "modelName": "${model_name_1}_${current_time}_exact_150_char_${model_name_1}_${current_time}_exact_150_char_${model_name_1}_${current_time}_exact_150_char",
+        "modelName": "${model_name_1}_${current_time}_exact_150_char_${model_name_1}_${current_time}_exact_150_char_${model_name_1}_exact_ch",
         "ownerReference_PartySiteID": "${Asset1_Owner_Ref}",
         "referenceNumber": "${Asset_Ref_No}"
     },

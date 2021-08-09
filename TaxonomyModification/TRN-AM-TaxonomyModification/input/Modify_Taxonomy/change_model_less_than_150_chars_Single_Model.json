@@ -8,7 +8,7 @@
         "creationDate": "${today_date}"
     },
     "new": {
-        "modelName": "${model_name_1}_${current_time}_lessthan150ch_${model_name_1}_${current_time}_lessthan150ch_${model_name_1}_${current_time}_lessthan150ch_",
+        "modelName": "${model_name_1}_lessthan150ch_${model_name_1}_lessthan150ch_${model_name_1}_lessthan150ch_",
         "ownerReference_PartySiteID": "${Asset1_Owner_Ref}",
         "referenceNumber": "${Asset_Ref_No}"
     },

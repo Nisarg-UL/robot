@@ -8,7 +8,7 @@
         "creationDate": "${today_date}"
     },
     "new": {
-        "modelName": "${model_name_2}_${current_time}_lessthan150ch_${model_name_2}_${current_time}_lessthan150ch_${model_name_2}_${current_time}_lessthan150ch_"
+        "modelName": "${model_name_2}_lessthan150ch_${model_name_2}_lessthan150ch_${model_name_2}_lessthan150ch_"
     },
     "modifiedBy": "Nisarg_Automation",
     "modifiedFor": "For-Automation",

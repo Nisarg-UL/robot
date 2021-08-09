@@ -8,7 +8,7 @@
         "creationDate": "${today_date}"
     },
     "new": {
-        "ownerReference_PartySiteID": "${model_name_1}_${current_time}_${Asset1_Owner_Ref}_reg-test_DEMOFILE01_Collection1_exact_100_characters_Tests",
+        "ownerReference_PartySiteID": "${model_name_1}_${current_time}_${Asset1_Owner_Ref}_reg-test_DEMOFILE01_Collection1_exact_100_charac",
         "referenceNumber": "${Asset_Ref_No}"
     },
     "modifiedBy": "Nisarg_Automation",
