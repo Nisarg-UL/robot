@@ -29,17 +29,17 @@ ${Api_ver}  5.22
 ${certificate_hierarchy_Id}      2f218343-3156-4554-83e7-4c2f09ab13fe          #for TRN
 ${certificate2_hierarchy_Id}     cd9a5b31-7e58-4ba3-a336-6d4afa6a637a          #for TRN
 #${certificate3_hierarchy_Id}                                                  #for TRN
-${certificate_metadataId}        75bb0168-0525-4836-a448-b5fb53febe76          #for TRN
-${certificate2_metadataId}       cd9a5b31-7e58-4ba3-a336-6d4afa6a637a          #for TRN
+${certificate_metadataId}        2a0ce653-7cbc-4b40-ad52-a44105bdac2f          #for TRN
+${certificate2_metadataId}       bcf0694e-f8bd-4553-b926-6b7e6fdcd3c5          #for TRN
 #${certificate3_metadataId}                                                    #for TRN
-${standard_hierarchy_Id}          1f7dc0d1-1f6d-439f-8e16-45b80aa6fdf9       #for TRN - with clause group
+${standard_hierarchy_Id}          b3152d9d-f4fc-4d72-9a1d-b967976b498b         #for TRN - with clause group
 ${standard_hierarchy_Id}          e19a2796-45b9-46c5-90ec-b9297437c1f4         #for TRN - no clause group
-${Reg_prod1_metadataId}           fb7d3bdd-7477-46f2-9180-8da30a0ca384        #for TRN
-${Reg_prod2_metadataId}           e59dce48-ab86-4b11-b092-d2cf6cbacd58         #for TRN
-${Reg_prod3_metadataId}           ccb6fc3b-55c8-4b2b-b9bd-185b9e1ee73f         #for TRN
-${noEvalReqd_hierarchy_Id}     ge28b891-a43e-4f59-9f15-2554f93359fe            #for TRN
-${regression_product_1_hierarchy_id}    84d4d93f-7beb-4640-ab09-3098eb4b8640   #for TRN
-${regression_product_2_hierarchy_id}    463ec906-d69a-4ead-a87e-fe5e61b3ffc5  #for TRN
+${Reg_prod1_metadataId}           217afac8-ade9-47ae-8989-f77073568c18         #for TRN
+${Reg_prod2_metadataId}           fed28662-dbcf-4501-bd10-2e807bff0524         #for TRN
+${Reg_prod3_metadataId}           c4579efc-8d20-4a75-afbb-f6afe793b132         #for TRN
+${noEvalReqd_hierarchy_Id}        ge28b891-a43e-4f59-9f15-2554f93359fe         #for TRN
+${regression_product_1_hierarchy_id}    b16ba728-7629-45bf-8d13-9a9739a5ffbd   #for TRN
+${regression_product_2_hierarchy_id}    463ec906-d69a-4ead-a87e-fe5e61b3ffc5   #for TRN
 ${regression_product_3_hierarchy_id}    4756b64a-27ab-4985-bb77-ac0d669b66d1   #for TRN
 ${certificate_hierarchy_IdV2.1}     c39482fc-8a95-43e9-9383-808500ed8860       #for TRN
 ${certificate_metadataIdV2.1}       bbc26c14-cc7f-4bc2-94cd-a8b97529c6f1       #for TRN

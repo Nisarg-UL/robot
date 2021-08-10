@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f9f3059-4ef5-4b2b-9813-2d7baf598cad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../DataMisfit/TRN-AM-DataMisfit/.idea/TRN-AM-DataMisfit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PrivateLabel/TRN-AM-PrivateLabel/.idea/TRN-AM-PrivateLabel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Security/TRN-AM-Security/.idea/TRN-AM-Security.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SingleModelandGETservices/TRN-AM-SingleModelandGETservices/.idea/TRN-AM-SingleModelandGETservices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TaxonomyModification/UAT-AM-TaxonomyModification/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sisRegression/withclausegrp/DEV-AM-sisregression-withclausegroup/.idea/DEV-AM-sisregression-withclausegroup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sisRegression/withclausegrp/UAT-AM-sisregression-withclausegroup/.idea/UAT-AM-sisregression-withclausegroup.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/resource/UAT_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/UAT-AM-AssetPaginatedSearch/resource/UAT_ENV_Variables.robot" afterDir="false" />
+    <list default="true" id="8f9f3059-4ef5-4b2b-9813-2d7baf598cad" name="Default" comment="Updated $certificate_metadataId for UAT for the latest one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TaxonomyModification/UAT-AM-TaxonomyModification/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TaxonomyModification/UAT-AM-TaxonomyModification/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +36,25 @@
       <option name="presentableId" value="Default" />
       <updated>1583816919520</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated $certificate_metadataId for UAT for the latest one">
+      <created>1627935038917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627935038917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated $certificate_metadataId for UAT for the latest one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated $certificate_metadataId for UAT for the latest one" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="396" y="7" key="CommitChangelistDialog2" timestamp="1627934986528">
+    <state x="396" y="7" key="CommitChangelistDialog2" timestamp="1627935034265">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="396" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627934986528" />
+    <state x="396" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627935034265" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1627934965605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -61,9 +63,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627933611936" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1627935001941">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1627935094065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1627935001941" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1627935094065" />
   </component>
 </project>
