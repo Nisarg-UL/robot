@@ -1,5 +1,5 @@
 {
     "data": {
-        "searchText": "${Cert_Owner_Ref}"
+        "searchText": "${certificate_name_1}-${current_time}"
     }
 }

@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f9f3059-4ef5-4b2b-9813-2d7baf598cad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../AssetPaginatedSearch/TRN-AM-AssetPaginatedSearch/resource/TRN_ENV_Variables.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV-AM-CertificatePaginatedSearch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaxonomyModification/TRN-AM-TaxonomyModification/.idea/UAT-AM-TaxonomyModification.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEV-AM-CertificatePaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DEV-AM-CertificatePaginatedSearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEV-AM-CertificatePaginatedSearch/group10/Test_Case_02/tests/test02d.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../DEV-AM-CertificatePaginatedSearch/group10/Test_Case_02/tests/test02d.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DEV-AM-CertificatePaginatedSearch/input/Certificate/Search/Certificate_Search_without_user.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DEV-AM-CertificatePaginatedSearch/input/Certificate/Search/Certificate_Search_without_user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UAT-AM-CertificatePaginatedSearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TRN-AM-CertificatePaginatedSearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/TRN_ENV_Variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/resource/TRN_ENV_Variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group10/Test_Case_02/tests/test02d.robot" beforeDir="false" afterPath="$PROJECT_DIR$/group10/Test_Case_02/tests/test02d.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/Certificate/Search/Certificate_Search_without_user.json" beforeDir="false" afterPath="$PROJECT_DIR$/input/Certificate/Search/Certificate_Search_without_user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UAT-AM-CertificatePaginatedSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UAT-AM-CertificatePaginatedSearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UAT-AM-CertificatePaginatedSearch/group10/Test_Case_02/tests/test02d.robot" beforeDir="false" afterPath="$PROJECT_DIR$/../UAT-AM-CertificatePaginatedSearch/group10/Test_Case_02/tests/test02d.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UAT-AM-CertificatePaginatedSearch/input/Certificate/Search/Certificate_Search_without_user.json" beforeDir="false" afterPath="$PROJECT_DIR$/../UAT-AM-CertificatePaginatedSearch/input/Certificate/Search/Certificate_Search_without_user.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CertificationRegression/TRN-AM-CertificationRegression" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
