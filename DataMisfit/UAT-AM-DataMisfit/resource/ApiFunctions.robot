@@ -24,7 +24,7 @@ ${pass_wd}    @{database}[3]
 ${host}       @{database}[4]
 ${port}       @{database}[5]
 
-${Api_ver}  5.22
+${Api_ver}  5.23
 
 ${certificate_hierarchy_Id}      3165b616-9e92-4db7-b976-aab81e49b133          #for UAT
 ${certificate2_hierarchy_Id}     da6c7ba0-14e0-4348-a7e2-4dc8e563c40c          #for UAT
