@@ -30,4 +30,4 @@ test1 Teardown
     run keyword and ignore error  Modify Taxonomy Single_Model With Asset_Id   change_model_exact_same_Single_Model.json
     ${message}   err msg  ${response_api}
     log to console  ${message}
-    run keyword if  "${message}" != "For given taxonomy asset already exists in DB"  fail
+    run keyword if  "${message}" != "The product information you entered already exists."  fail
