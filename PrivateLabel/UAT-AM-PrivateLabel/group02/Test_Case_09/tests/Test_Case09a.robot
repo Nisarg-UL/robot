@@ -158,5 +158,5 @@ test1 Teardown
 #    ${response}  Get Private Lable Asset ID   ${response_api}
 #    log to console   Private Lable Asset_ID2: ${response}
     ${response}  Get Private Label Error Message  ${response_api}
-    run keyword if  ${response} != "For the given taxonomy information asset already exist in Information Platform."   Fail  test1 Teardown
+    run keyword if  ${response} != "The product information you entered already exists."   Fail  test1 Teardown
     log to console  ${response}
