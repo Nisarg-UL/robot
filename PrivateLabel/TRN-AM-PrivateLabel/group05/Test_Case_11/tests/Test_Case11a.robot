@@ -114,6 +114,6 @@ test1 Teardown
 
 19. Search for the Private Label Asset
     [Tags]	Functional	create  POST	current
-    ${response}  run keyword and ignore error    Search Private label Asset  productType= &ownerReference_PartySiteID= &referenceNumber= &family_Series= &modelName=
-    run keyword if  ${response} != (\'FAIL\', \'HTTPError: HTTP Error 505: HTTP Version Not Supported\')  Fail	test1 Teardown
-	log to console  ${response}
+    ${response}  run keyword and ignore error    Search Private label Asset  productType=&ownerReference_PartySiteID=&referenceNumber=&family_Series=&modelName=
+    run keyword if  ${response} != (\'FAIL\', u\'HTTPError: HTTP Error 400: \')  Fail	test1 Teardown
+    log to console  ${response}
