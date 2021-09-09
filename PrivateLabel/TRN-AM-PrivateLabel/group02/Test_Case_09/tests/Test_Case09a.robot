@@ -155,5 +155,8 @@ test1 Teardown
     ${response}  Get Private Lable Asset ID   ${response_api}
     log to console   Private Lable Asset_ID1: ${response}
     run keyword and ignore error  Add Asset To PL  Private_Label/Add_Second_Asset_To_Private_Label_With_Same_Taxonomy_As_Asset1.json
-    ${response}  Get Private Lable Asset ID   ${response_api}
-    log to console   Private Lable Asset_ID2: ${response}
+#    ${response}  Get Private Lable Asset ID   ${response_api}
+#    log to console   Private Lable Asset_ID2: ${response}
+    ${response}  Get Private Label Error Message  ${response_api}
+    run keyword if  ${response} != "The product information you entered already exists."   Fail  test1 Teardown
+    log to console  ${response}
