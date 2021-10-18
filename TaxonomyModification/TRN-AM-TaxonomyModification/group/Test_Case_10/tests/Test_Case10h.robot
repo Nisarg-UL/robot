@@ -30,4 +30,4 @@ test1 Teardown
     run keyword and ignore error  Modify Taxonomy Single_Model With Asset_Id   change_family_empty_taxonomy_chars_Single_Model.json
     ${message}   err msg  ${response_api}
     log to console  ${message}
-    run keyword if  "${message}" != "Family series cannot be empty in request"  fail
+    run keyword if  "${message}" != "OK"  fail
