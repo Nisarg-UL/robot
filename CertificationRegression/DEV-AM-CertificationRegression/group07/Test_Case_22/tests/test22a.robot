@@ -127,7 +127,7 @@ test1 Teardown
     [Tags]	Functional	certificate	create	POST    current
     ${response}     run keyword and ignore error    Add Decisions to Certificate  Certificate/Add_DecisionsToCertificate_RegressionScheme_diffProjectNo.json    ${Certificate_Id_Modify}
     ${msg}  Get Error Message  ${response_api}
-	run keyword if  "${msg}" != " Error: Required information is missing from the Parties tab. Please add mandatory role(s) - localRepresentative, productionSite. "  Fail	test1 Teardown
+	run keyword if  "${msg}" == " Error: Required information is missing from the Parties tab. Please add mandatory role(s) - localRepresentative, productionSite. "  Pass	test1 Teardown
 	log to console  ${msg}
 
 22. Validate Certificate Status
