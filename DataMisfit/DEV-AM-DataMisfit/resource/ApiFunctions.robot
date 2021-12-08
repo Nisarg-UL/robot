@@ -25,7 +25,7 @@ ${pass_wd}    @{database}[3]
 ${host}       @{database}[4]
 ${port}       @{database}[5]
 
-${Api_ver}  5.26
+${Api_ver}  5.27
 
 ${certificate_hierarchy_Id}     35072a92-ccd3-49d8-8705-d02bc37d1008           #for DEV
 ${certificate2_hierarchy_Id}    c8ef6737-3597-443e-979c-b3d3fde0b426           #for DEV
