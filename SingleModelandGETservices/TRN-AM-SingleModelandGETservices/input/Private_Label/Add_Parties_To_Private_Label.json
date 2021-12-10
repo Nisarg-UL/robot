@@ -21,8 +21,8 @@
             "relationshipType": "Local Representative"
         },
         {
-            "accountNumber": "1234",
-            "partySiteNumber": "7890",
+            "accountNumber": "123456",
+            "partySiteNumber": "7890123",
             "relationshipType": "Owner Reference"
         }
     ],
