@@ -129,7 +129,7 @@ test1 Teardown
     set global variable	${ul_asset_Id_2}	${response}
     Link Product to Certificate  Certificate/Link_Product1_&_Product2_Certificate.json
     Get CertificateId_2   Regression%20Scheme   ${Certificate_Name}
-    unlock certificate  Unlock_Template.json   ${Certificate_Id_2}
+#    unlock certificate  Unlock_Template.json   ${Certificate_Id_2}
 
 20. Associate parties to certificate
     [Tags]	Functional	certificate	create	POST    current
