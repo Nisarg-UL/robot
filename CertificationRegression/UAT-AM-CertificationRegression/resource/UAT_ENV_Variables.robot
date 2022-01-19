@@ -1,5 +1,5 @@
 *** Variables ***
-${API_ENDPOINT}	https://qa.informationplatform.ul.com/InformationPlatformServices/api/v${Api_ver}	#For UAT
+${API_ENDPOINT}	http://usnbkq217t:8443/InformationPlatformServices/api/v${Api_ver}	#For UAT
 
 @{database}	pymysql	infopltfrm_transDBv05	ul_transUser	q2Rbd6Wgpg	usnbkinpt020q.global.ul.com 	3316	#DB for UAT
 
