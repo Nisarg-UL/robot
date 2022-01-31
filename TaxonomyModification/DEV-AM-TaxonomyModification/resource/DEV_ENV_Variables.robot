@@ -1,7 +1,9 @@
 *** Variables ***
-${API_ENDPOINT}	https://dev.informationplatform.ul.com/InformationPlatformServices/api/v${Api_ver}	#For DEV
+#${API_ENDPOINT}	https://dev.informationplatform.ul.com/InformationPlatformServices/api/v${Api_ver}	#For DEV
+${API_ENDPOINT}	https://platform-np-api-dev.azurewebsites.net	#For DEV
 
-@{database}  pymysql    infopltfrm_transDBv07  ul_transUser    29LPMW6Ljv  usnbkinpt018d.global.ul.com    3316	#DB for DEV
+#@{database}  pymysql    infopltfrm_transDBv07  ul_transUser    29LPMW6Ljv  usnbkinpt018d.global.ul.com    3316	#DB for DEV
+@{database}   pymysql    infopltfrm_transDBv07    RW_Automation    VUK523(3B2^qZS=  ip-d-ss.mysql.database.azure.com    3306  	#DB for DEV
 
 ${db}         @{database}[1]
 ${user}       @{database}[2]
@@ -9,7 +11,7 @@ ${pass_wd}    @{database}[3]
 ${host}       @{database}[4]
 ${port}       @{database}[5]
 
-${Api_ver}  5.27
+#${Api_ver}  5.27
 
 ${certificate_hierarchy_Id}     35072a92-ccd3-49d8-8705-d02bc37d1008           #for DEV
 ${certificate2_hierarchy_Id}    c8ef6737-3597-443e-979c-b3d3fde0b426           #for DEV
