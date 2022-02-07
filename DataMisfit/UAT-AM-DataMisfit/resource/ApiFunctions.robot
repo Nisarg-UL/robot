@@ -14,7 +14,8 @@ Library	../resource/RegExp.py
 Library  Collections
 
 *** Variables ***
-${API_ENDPOINT}	https://qa.informationplatform.ul.com/InformationPlatformServices/api/v${Api_ver}	#For UAT
+#${API_ENDPOINT}	https://qa.informationplatform.ul.com/InformationPlatformServices/api/v${Api_ver}	#For UAT
+${API_ENDPOINT}	http://usnbkq217t:8443/InformationPlatformServices/api/v${Api_ver}
 
 @{database}	pymysql	infopltfrm_transDBv05	ul_transUser	q2Rbd6Wgpg	usnbkinpt020q.global.ul.com 	3316	#DB for UAT
 
@@ -24,7 +25,7 @@ ${pass_wd}    @{database}[3]
 ${host}       @{database}[4]
 ${port}       @{database}[5]
 
-${Api_ver}  5.28
+${Api_ver}  5.29
 
 ${certificate_hierarchy_Id}      3165b616-9e92-4db7-b976-aab81e49b133          #for UAT
 ${certificate2_hierarchy_Id}     da6c7ba0-14e0-4348-a7e2-4dc8e563c40c          #for UAT
